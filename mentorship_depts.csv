@@ -1,0 +1,1941 @@
+emp_no,first_name,last_name,dept_name,from_date,to_date
+10095,Hilari,Morton,Sales,1994-03-10,9999-01-01
+10122,Ohad,Esposito,Development,1998-08-06,9999-01-01
+10291,Dipayan,Seghrouchni,Sales,1987-03-30,9999-01-01
+10410,Takahito,Gecsei,Sales,1993-10-16,1996-07-21
+10476,Kokou,Iisaka,Research,1987-09-20,9999-01-01
+10480,Make,Baba,Finance,1988-05-18,1989-06-03
+10663,Teunis,Noriega,Production,1999-02-12,9999-01-01
+10762,Lech,Himler,Research,1992-01-21,9999-01-01
+10933,Juyoung,Seghrouchni,Production,1993-08-02,9999-01-01
+11015,Jeanna,Riesenhuber,Sales,1998-03-14,2000-02-22
+11126,Hideo,Daescu,Research,1992-02-25,2002-04-04
+11157,Mario,Cochrane,Development,1985-03-30,1991-02-06
+11432,Yongmao,Zwicker,Production,1987-10-19,1997-09-13
+12155,Keiichiro,Glinert,Production,1993-09-16,9999-01-01
+12408,Rasiah,Sudkamp,Development,1995-04-18,9999-01-01
+12643,Morrie,Schurmann,Finance,1998-12-31,9999-01-01
+13499,Kazuhiko,Sidou,Production,1991-09-01,9999-01-01
+13957,Angus,Chelton,Quality Management,1986-04-18,1987-02-02
+14075,Denny,Tchuente,Development,1991-05-30,9999-01-01
+14104,Sudhanshu,Demian,Human Resources,1994-07-23,9999-01-01
+14127,Magdalena,Cannard,Production,1994-04-22,9999-01-01
+14158,Caolyn,Setiz,Sales,1990-02-06,9999-01-01
+14476,Sastry,Marrevee,Production,1999-09-25,9999-01-01
+14551,Richard,Sinitsyn,Sales,1993-06-27,1993-09-16
+14907,Nakhoon,Luga,Sales,1986-12-18,9999-01-01
+15050,Nikolaos,Kruskal,Production,1990-12-17,9999-01-01
+15058,Bouchung,Bugrara,Finance,1990-06-18,9999-01-01
+15376,Geoff,Soicher,Research,1988-08-14,2001-03-01
+15413,Arvin,Rabejac,Development,1994-01-01,9999-01-01
+16461,Remmert,Schahn,Sales,1986-09-06,9999-01-01
+16528,Gaurav,Swick,Production,1996-05-07,9999-01-01
+17013,Morris,Garigliano,Finance,1995-05-24,9999-01-01
+17206,Berry,DeMori,Production,1992-12-27,9999-01-01
+17369,Yaghout,Kenevan,Production,2000-09-15,9999-01-01
+17447,Zengping,Boreale,Sales,1998-12-16,9999-01-01
+17618,Teiji,Picco,Research,1992-09-17,1999-11-08
+17731,Gennady,Roison,Development,1989-12-06,9999-01-01
+17799,Gro,Gini,Development,1997-09-28,2001-07-11
+17970,Filipp,Carrere,Production,1989-01-09,9999-01-01
+17988,Mabhin,Calkin,Production,1989-11-30,9999-01-01
+18021,Adil,Matzke,Development,1987-05-08,9999-01-01
+18187,Denis,Falster,Research,1998-12-21,1999-06-03
+18424,Filipp,Rousseau,Development,1995-06-07,9999-01-01
+18583,Stafford,Honglei,Customer Service,1998-08-16,9999-01-01
+18617,Surveyors,Crouzet,Human Resources,1989-04-24,9999-01-01
+18810,Taiji,Jarecki,Development,1991-06-27,9999-01-01
+19236,Elzbieta,Morris,Production,1988-07-12,9999-01-01
+19350,Satoru,Yoshizawa,Customer Service,1994-03-27,9999-01-01
+19803,Ziva,Kowalchuk,Development,1987-06-13,9999-01-01
+20100,Utz,Heuter,Marketing,1986-06-15,9999-01-01
+20128,Kazunori,Peak,Customer Service,1999-08-13,9999-01-01
+20129,Rafael,Skafidas,Production,1991-03-28,9999-01-01
+20248,Vidar,Demri,Customer Service,1999-12-31,9999-01-01
+20313,Candida,Benveniste,Production,1999-01-20,9999-01-01
+20500,Christoph,Trystram,Customer Service,1993-10-15,9999-01-01
+20712,Valeri,Escriba,Production,1994-04-09,1998-05-02
+20720,Heejo,Brodie,Human Resources,1996-12-27,1997-05-17
+20885,Otmar,Rothenberg,Production,1989-03-14,9999-01-01
+21181,Jianhui,Cangellaris,Production,1991-10-06,9999-01-01
+21188,Piyush,Danecki,Development,2000-01-08,9999-01-01
+21534,Alagu,Luders,Finance,1996-04-03,1997-12-14
+21546,Yongmin,Lanteri,Marketing,2002-03-19,9999-01-01
+21843,Karsten,Azadmanesh,Development,1985-11-29,9999-01-01
+21909,Mohammed,Brizzi,Sales,1991-12-28,9999-01-01
+22027,Sangeeta,Georg,Finance,1992-07-31,1998-03-14
+22185,Huai,Birch,Production,2002-06-12,9999-01-01
+22415,Perla,Jumpertz,Sales,1994-08-24,9999-01-01
+22451,Jasminko,Bresenham,Development,1994-01-19,9999-01-01
+22455,Barry,Unno,Marketing,1990-11-16,9999-01-01
+22502,Rutger,Binkley,Production,1989-10-16,2001-11-02
+22926,Manibrata,Genther,Production,1988-01-15,9999-01-01
+23396,Hilari,Fairtlough,Production,1986-12-15,9999-01-01
+24080,Jaana,Perez,Development,1996-03-11,9999-01-01
+24189,Abdelaziz,Atrawala,Research,1993-03-28,1997-02-23
+24205,Roddy,Rubsam,Development,1993-09-19,9999-01-01
+24377,Lubomir,Wroclawski,Quality Management,1993-07-25,9999-01-01
+24394,Zhonghui,Conta,Sales,1994-09-10,9999-01-01
+24421,Dannz,Grospietsch,Production,1990-09-01,2000-10-12
+24553,Anwar,Passafiume,Sales,1987-01-30,9999-01-01
+24571,Cordelia,Gischer,Production,1989-03-14,9999-01-01
+25488,Ingmar,Basawa,Research,1991-11-09,9999-01-01
+26476,Bilhanan,Karcich,Sales,1996-04-09,1997-02-04
+26503,Shietung,Billingsley,Sales,1998-11-07,1998-12-02
+26617,Berto,Bruckman,Development,1991-11-23,1994-03-27
+26629,Nevin,Rodham,Research,1998-12-14,9999-01-01
+26671,Jiakeng,Kalorkoti,Development,1994-12-25,9999-01-01
+26788,Zongyan,Dalphin,Development,1988-04-23,9999-01-01
+27150,Chenyi,Plump,Sales,1992-06-23,1995-05-22
+27331,Wanqing,Krohm,Customer Service,1991-01-22,9999-01-01
+27378,Piyawadee,Leppanen,Finance,1999-02-25,9999-01-01
+27620,Shuji,Kandlur,Production,1990-03-02,9999-01-01
+27686,Manu,Rosiles,Sales,1998-03-03,9999-01-01
+27699,Falguni,Pezzoli,Production,1996-12-23,9999-01-01
+27767,Tooru,Veldwijk,Customer Service,1993-11-21,9999-01-01
+27970,KayLiang,Miyakawa,Production,1995-11-22,2000-02-07
+28193,Xinglin,Mitsuhashi,Development,1988-12-14,9999-01-01
+28222,Mayuko,Vitiello,Production,1993-12-22,1995-10-16
+28974,Chenxi,Sundgren,Development,1986-09-02,9999-01-01
+28988,Tua,Giveon,Production,1998-09-09,9999-01-01
+29130,Xumin,Thorensen,Marketing,1998-04-26,9999-01-01
+29265,Gilbert,Calkin,Customer Service,1988-03-21,9999-01-01
+29380,Satoru,Vidal,Production,1998-05-02,9999-01-01
+29418,Valery,Mersereau,Production,1998-07-01,9999-01-01
+29679,Kolar,Steenbeek,Development,1986-10-18,9999-01-01
+29782,Jouko,Hellwagner,Production,2000-10-23,9999-01-01
+29954,Pranay,Giarratana,Production,1992-09-29,9999-01-01
+30007,Kousuke,Vecchio,Production,1990-02-23,9999-01-01
+30035,Tetsushi,Conta,Research,1995-07-04,9999-01-01
+30154,Mayuko,Skafidas,Development,1999-04-19,9999-01-01
+30182,Leon,Potthoff,Development,1985-12-08,9999-01-01
+30465,Randi,Avouris,Development,1986-07-16,9999-01-01
+30484,Sailaja,Chvatal,Sales,1999-05-18,9999-01-01
+30552,Yishai,Terlouw,Development,1986-09-19,1999-01-07
+30695,Gudjon,Majewski,Development,1999-10-26,9999-01-01
+30938,Yakkov,Samarati,Marketing,1997-10-10,9999-01-01
+31147,Divine,Sidhu,Finance,1989-07-05,9999-01-01
+31170,Tuval,Waleschkowski,Research,1987-10-16,1988-12-14
+31188,Leandro,Gist,Production,1993-02-03,9999-01-01
+31207,Abdelwaheb,Dulin,Production,1993-08-05,9999-01-01
+31341,Oksana,Zultner,Finance,1991-03-23,9999-01-01
+31514,Harngdar,Schapire,Development,1996-11-09,9999-01-01
+31568,Mark,Lalonde,Marketing,1996-11-24,9999-01-01
+31599,Qingxiang,Gewali,Production,1997-09-22,1998-12-01
+31629,Toong,Veldwijk,Production,1986-07-28,1996-04-26
+31909,Murthy,Peek,Production,2000-10-30,9999-01-01
+32347,Terresa,Peres,Marketing,1990-09-15,9999-01-01
+32552,Atreye,Stanger,Development,1993-09-10,9999-01-01
+32622,Piyush,Paciorek,Human Resources,1991-07-18,1991-08-07
+32649,Ingmar,Nannarelli,Research,1988-06-10,9999-01-01
+32714,Radoslaw,Maliniak,Marketing,2001-09-18,9999-01-01
+32844,Tadahiko,Melton,Development,1995-01-07,9999-01-01
+33025,Jessie,Thorelli,Customer Service,1999-12-16,9999-01-01
+33215,Steen,Fasbender,Production,1993-02-14,9999-01-01
+33293,Adamantios,Vanwelkenhuysen,Development,1994-01-11,2000-08-18
+33606,Clyde,Swift,Marketing,1994-11-14,1996-12-29
+33722,Anwar,Collette,Research,2001-02-03,9999-01-01
+34077,Angel,Sichman,Sales,1988-11-16,9999-01-01
+34261,Kyoichi,Callaway,Human Resources,1990-12-30,9999-01-01
+34446,Chinhyun,Bauknecht,Development,1986-12-19,9999-01-01
+34452,Naftaly,Foong,Production,1991-05-10,9999-01-01
+34505,Felicidad,Kumaresan,Sales,1994-09-06,9999-01-01
+34533,Erzsebet,Shigei,Quality Management,1995-01-16,9999-01-01
+34780,Moni,Kohling,Sales,2001-09-18,9999-01-01
+34788,Ennio,Babu,Production,1994-08-31,9999-01-01
+34936,Bokyung,Stamatiou,Production,1991-02-12,9999-01-01
+35044,Jiang,Waschkowski,Production,1989-05-27,9999-01-01
+35087,Leif,Ashish,Customer Service,1994-10-14,9999-01-01
+35441,Chandrasekaran,Peek,Research,1990-09-17,9999-01-01
+35642,Ashish,Talmon,Quality Management,1999-02-28,9999-01-01
+35793,Oscar,Kusalik,Customer Service,1991-05-11,9999-01-01
+35798,Ulf,Oberman,Development,1997-03-15,9999-01-01
+36521,Serif,Gladwell,Finance,1987-03-06,9999-01-01
+36626,Fen,Genin,Sales,1986-05-09,9999-01-01
+36733,Uma,Reinhard,Customer Service,1997-11-01,9999-01-01
+36844,Hailing,Levergood,Customer Service,2000-01-12,9999-01-01
+36982,Kotesh,Rajala,Quality Management,1992-06-23,9999-01-01
+37070,Jeong,Undy,Customer Service,1985-02-13,9999-01-01
+37592,Berni,Stranks,Development,1985-11-05,1992-09-19
+37719,Nakhoon,Buescher,Production,1988-06-12,1999-01-17
+37945,Suzette,Butterworth,Development,1994-02-19,9999-01-01
+38017,Ulf,Himler,Customer Service,1995-08-05,1997-11-28
+38043,Michaela,Randi,Development,1985-11-23,9999-01-01
+38103,Masasuke,Babu,Production,1988-03-31,9999-01-01
+38168,Fumiko,Deverell,Sales,1987-08-15,9999-01-01
+38550,JoAnne,Baez,Quality Management,1987-02-16,9999-01-01
+38593,Huei,Orsini,Production,1986-06-04,9999-01-01
+38947,Shuichi,Ruemmler,Marketing,1998-04-08,9999-01-01
+39000,Martijn,Vendrig,Research,1997-03-03,9999-01-01
+39036,Changho,Cappelli,Human Resources,1996-05-04,9999-01-01
+39268,Constantijn,Awdeh,Production,1987-10-20,1990-06-10
+39301,Rimon,Kawashima,Research,1992-02-06,9999-01-01
+39341,Mahmut,Lampe,Production,1985-05-11,9999-01-01
+39952,Otmar,Sudbeck,Sales,1998-07-22,9999-01-01
+40269,Toshiki,Ghazalie,Sales,1991-12-05,9999-01-01
+40283,Sudhanshu,Boissier,Development,1985-05-11,9999-01-01
+40301,Spyrose,Felder,Customer Service,1997-10-20,9999-01-01
+40536,Harngdar,Bernardinello,Development,1988-02-29,9999-01-01
+40648,Wayne,Erev,Finance,1990-09-19,1993-02-02
+40765,Michaela,Ramsak,Research,1992-12-21,9999-01-01
+40773,Shimshon,Aingworth,Customer Service,1986-04-13,9999-01-01
+40785,Youpyo,Castellani,Production,1998-09-04,1999-10-14
+40983,Marla,Cherinka,Development,1986-12-01,9999-01-01
+41114,Petter,Thummel,Production,1995-12-24,9999-01-01
+41137,Bikash,Buchter,Customer Service,1996-01-08,9999-01-01
+41357,Willard,Vernadat,Development,1997-03-04,9999-01-01
+41518,Keung,Schapiro,Production,2001-02-08,9999-01-01
+41520,Xiong,Uhrik,Development,1988-03-21,9999-01-01
+41552,Uno,Heyers,Development,1990-09-28,2001-11-29
+41609,Yucai,Simmen,Sales,1987-10-13,9999-01-01
+42778,Shuji,Remmers,Human Resources,1987-12-18,9999-01-01
+42911,Brigham,Eterovic,Production,1994-10-08,9999-01-01
+42950,Shaleah,Eickenmeyer,Research,1993-10-09,9999-01-01
+42955,Yucel,Lortz,Quality Management,1995-02-21,9999-01-01
+43154,Maha,Waterhouse,Finance,1997-07-04,9999-01-01
+43358,Ottavia,Mitsuhashi,Marketing,1989-08-18,1996-07-13
+43733,Huei,Boguraev,Human Resources,1993-12-31,9999-01-01
+43848,Phillip,Oxenboll,Production,1999-05-26,9999-01-01
+44054,Alenka,Ritcey,Development,1997-02-09,9999-01-01
+44265,Maria,Eppinger,Development,1997-01-30,9999-01-01
+44540,Mingzeng,Sadowski,Development,1989-11-12,9999-01-01
+44900,Mark,Schwaller,Marketing,1994-08-10,9999-01-01
+44959,Volkmar,Uhrik,Production,1988-01-16,9999-01-01
+44962,Sariel,Wynblatt,Development,1996-05-18,9999-01-01
+45162,Dulce,Speel,Development,1987-10-19,9999-01-01
+45590,Masoud,Genin,Quality Management,1991-02-16,1994-06-01
+46000,Zhaofang,Penn,Customer Service,1997-07-24,9999-01-01
+46015,Weiye,Masand,Sales,1995-07-24,2002-01-29
+46222,Mrinalini,Strooper,Sales,1990-03-05,1992-09-04
+46328,Wuxu,Trogemann,Sales,1997-01-27,9999-01-01
+46531,Yaghout,Peng,Development,1995-10-02,1997-10-07
+46811,Junsik,Berendt,Production,1988-04-27,9999-01-01
+46834,Tooru,Daescu,Sales,1998-03-20,9999-01-01
+46943,Pasqua,Maraist,Development,1993-12-06,9999-01-01
+47016,Toong,Litecky,Customer Service,1989-03-01,9999-01-01
+47139,Marco,Usdin,Development,1996-10-29,9999-01-01
+47262,Gonzalo,Binkley,Development,1985-08-16,9999-01-01
+47515,Naraig,Jenevein,Development,1987-01-18,9999-01-01
+47702,Juyoung,Vieri,Sales,1991-08-12,9999-01-01
+47708,Edwin,Haldar,Marketing,1995-07-12,9999-01-01
+48275,Sariel,Massonet,Sales,1987-11-20,9999-01-01
+48690,Hitomi,Schaap,Human Resources,1999-09-27,9999-01-01
+48882,Leen,Lamparter,Production,1993-06-07,9999-01-01
+48904,Yuichiro,Malabarba,Finance,1994-03-07,9999-01-01
+48947,Filipp,Akaboshi,Sales,1992-05-20,9999-01-01
+49010,Kazuhisa,Benantar,Marketing,1990-03-30,9999-01-01
+49017,Filipp,Flanders,Development,1990-11-26,9999-01-01
+49119,Lena,Peek,Production,1991-05-16,9999-01-01
+49177,Tze,Bach,Production,1999-03-09,9999-01-01
+49464,Siddarth,Cappelletti,Sales,1999-09-10,9999-01-01
+49477,Baocai,Leaver,Human Resources,1998-08-05,9999-01-01
+50293,Xinan,Rindone,Production,1996-10-08,9999-01-01
+50311,Mooi,Stafford,Quality Management,1996-10-06,9999-01-01
+50360,Sumali,Kushner,Development,1999-10-30,2001-10-29
+50453,Aron,Harbusch,Finance,1997-10-02,9999-01-01
+50587,Slavian,Yemenis,Development,1993-08-06,1994-11-18
+50670,Boguslaw,Snedden,Marketing,1985-02-20,9999-01-01
+50831,Marie,Khalid,Production,1996-06-11,9999-01-01
+51036,Chriss,Fasbender,Sales,1995-05-23,9999-01-01
+51057,Theirry,Albarhamtoshy,Marketing,1991-09-27,9999-01-01
+51060,Youngkon,Rohrbach,Development,1989-10-20,9999-01-01
+51118,Fumiko,Mundy,Sales,1998-09-22,2001-08-20
+51142,Rosine,Lakshmanan,Development,1986-01-31,9999-01-01
+51502,Slavian,Munawer,Sales,1999-08-06,2001-09-04
+51868,Remmert,Munke,Development,1991-09-22,1998-05-19
+52038,Chikako,Armand,Production,1985-05-18,9999-01-01
+52040,Phule,Heijenga,Development,1996-12-08,9999-01-01
+52283,Trygve,Krupka,Research,1994-03-11,9999-01-01
+52386,Adas,Denti,Sales,1986-05-30,9999-01-01
+52590,Jouni,Munoz,Development,1996-10-07,9999-01-01
+52599,Augustine,Mungall,Customer Service,1994-01-13,9999-01-01
+52639,Arup,Colorni,Sales,1996-02-05,9999-01-01
+52770,Shugo,Yurek,Sales,1992-08-28,9999-01-01
+52778,Alain,Penn,Quality Management,1986-05-03,9999-01-01
+52956,Khalil,Picci,Quality Management,1998-11-24,9999-01-01
+52970,Lobel,Werthner,Production,1988-03-17,9999-01-01
+53088,Mechthild,Lamma,Production,1986-05-19,1993-06-03
+53278,Premsyl,Lortz,Sales,1993-02-01,9999-01-01
+53314,Eberhardt,Carrera,Research,1999-02-23,9999-01-01
+53431,Sham,Vasanthakumar,Customer Service,1993-05-24,9999-01-01
+53499,Zdislav,Mandelberg,Production,1994-09-11,9999-01-01
+53597,Jiafu,Marchegay,Development,1985-03-02,9999-01-01
+53746,Manu,Erva,Sales,1989-03-17,1993-04-29
+53874,Bodo,Schade,Marketing,1986-02-14,9999-01-01
+53891,Olivera,Pargaonkar,Human Resources,1989-03-13,1992-03-29
+53924,Arnould,Gaughan,Production,1991-01-23,9999-01-01
+54198,Shaowen,Segond,Development,1986-01-06,9999-01-01
+54632,Etsuo,Serot,Finance,1989-06-14,9999-01-01
+54795,Sumant,Nergos,Production,1994-03-02,9999-01-01
+54800,Breannda,Cangellaris,Sales,2000-01-27,9999-01-01
+55121,Toshiko,Alblas,Production,1995-07-20,1996-07-23
+55640,Adit,Syrotiuk,Production,1993-07-16,9999-01-01
+55670,Ulf,Ranft,Sales,1996-02-26,1996-05-17
+55687,Shih,Lindqvist,Development,1995-03-29,9999-01-01
+55799,Jianwen,Litzler,Production,1987-06-17,9999-01-01
+55857,Adin,Scallan,Sales,1987-09-15,9999-01-01
+56105,Makato,Remmers,Development,1989-04-16,9999-01-01
+56209,Remzi,Douceur,Production,1992-12-01,9999-01-01
+56415,Sigeru,Nivat,Finance,1991-10-24,9999-01-01
+56428,Olivera,Hanabata,Sales,1986-11-10,9999-01-01
+56682,Roded,Picco,Development,1993-11-06,9999-01-01
+56829,Nagui,Gruenwald,Quality Management,1997-06-14,9999-01-01
+56847,Menkae,Chinin,Quality Management,1998-08-27,9999-01-01
+57934,Sanjoy,Boudaillier,Development,1989-12-27,9999-01-01
+57982,Paloma,Benzaken,Human Resources,1989-10-17,1998-09-11
+58141,Bezalel,Karner,Finance,1994-09-27,9999-01-01
+58147,Shigenori,Sullins,Marketing,1988-02-24,9999-01-01
+58217,Kiyotoshi,Kusalik,Quality Management,1998-11-19,1999-06-26
+58384,Mariusz,Vural,Development,1993-11-14,9999-01-01
+58454,Ziya,Zambonelli,Production,1999-06-29,9999-01-01
+58497,Yechiam,Cairo,Marketing,2000-10-21,9999-01-01
+58601,Sungwon,Asser,Sales,2000-01-27,2000-04-01
+58819,Gennady,Liesche,Sales,1987-12-02,9999-01-01
+58990,Palash,Trelles,Development,1998-11-18,9999-01-01
+59195,Ronnie,Pollock,Development,1990-06-19,9999-01-01
+59329,Zissis,Bazzichi,Sales,1987-02-07,1991-01-25
+59640,Zita,Hiltgen,Finance,1999-01-26,9999-01-01
+59661,Saeko,Baik,Production,1997-10-11,1999-08-15
+59869,Zsolt,Riefers,Marketing,1987-09-25,9999-01-01
+59966,Steen,Salvesen,Production,1993-02-03,9999-01-01
+60000,Heekeun,Emmart,Development,1995-09-23,9999-01-01
+60091,Surveyors,Bade,Customer Service,1990-04-11,9999-01-01
+60238,Erzsebet,Claffy,Marketing,1999-02-19,9999-01-01
+60559,Jeanna,Stemann,Production,1988-08-29,9999-01-01
+60821,Moty,Mersereau,Human Resources,1991-09-03,9999-01-01
+60845,Bedir,Siegrist,Production,1997-05-13,9999-01-01
+60875,Rildo,Masaki,Quality Management,1990-01-14,9999-01-01
+60959,Tetsushi,Sridhar,Marketing,1989-10-19,9999-01-01
+61147,Leszek,Werthner,Marketing,1999-03-03,9999-01-01
+61253,Cheong,Uhrik,Research,2002-05-09,9999-01-01
+61377,Dannz,Ohori,Production,1997-04-13,9999-01-01
+61541,Kasidit,Papsdorf,Development,1993-08-17,9999-01-01
+61680,Hauke,Templeman,Sales,1991-10-23,1999-02-21
+61873,Woody,Rusmann,Quality Management,1993-02-26,9999-01-01
+61983,Sastry,Reeken,Sales,1990-07-24,1992-05-17
+62033,Heeju,Cappelli,Production,1987-01-15,9999-01-01
+62046,Karlis,Nanard,Production,1992-09-19,9999-01-01
+62167,Mihalis,Haldar,Production,1998-05-11,2001-02-03
+62245,Adel,Bressoud,Development,1995-08-30,9999-01-01
+62384,Akeel,Litzler,Research,1999-10-23,2001-12-21
+63294,Tetsushi,Tanemo,Production,1997-03-01,9999-01-01
+63419,Hiroyasu,Seuren,Production,1989-03-05,9999-01-01
+63441,Hinrich,Scallan,Human Resources,1999-04-04,9999-01-01
+63444,Padma,Peres,Finance,1985-02-20,1994-12-22
+63566,Heekeun,Slaats,Sales,1999-01-12,9999-01-01
+63631,Falguni,Cherinka,Customer Service,1987-10-15,9999-01-01
+63706,Sedat,Itzigehl,Development,1997-07-31,9999-01-01
+64023,Laurentiu,Benzmuller,Development,1999-11-08,9999-01-01
+64209,Golgen,Schoegge,Customer Service,1988-02-26,9999-01-01
+64431,Faiza,Zongker,Production,1995-12-10,2001-12-03
+64487,Tsutomu,Rebaine,Quality Management,1986-09-17,9999-01-01
+64532,Atilio,Segond,Production,1990-11-29,9999-01-01
+64632,Zsolt,Brender,Sales,1996-02-21,9999-01-01
+64790,Shin,Piveteau,Development,1985-04-19,9999-01-01
+64828,Krister,Pappas,Sales,1999-09-30,9999-01-01
+64984,Eldridge,Eldridge,Quality Management,1994-08-04,9999-01-01
+65013,Chandrasekaran,Peral,Development,1985-02-28,2001-12-14
+65171,Jeane,Tasistro,Production,1994-07-06,9999-01-01
+65539,Aksel,Picaronny,Development,1991-01-27,9999-01-01
+65883,Patricia,Pepe,Sales,1991-04-19,9999-01-01
+65998,Mandell,Alameldin,Sales,1989-04-08,9999-01-01
+66382,Domenico,Candan,Production,1997-07-13,9999-01-01
+66530,Dung,Leaver,Research,1998-04-04,9999-01-01
+66643,Jianhao,Tomescu,Production,1996-08-26,9999-01-01
+66702,Deniz,Thibadeau,Development,1994-09-27,9999-01-01
+66757,Yonghong,Baig,Marketing,1999-04-10,9999-01-01
+66807,Aiman,Rosaz,Development,1990-05-22,9999-01-01
+67320,Sadok,Lorys,Marketing,1987-05-10,9999-01-01
+67548,Fumitaka,Roohalamini,Human Resources,1998-06-27,9999-01-01
+67934,Aiman,Gargeya,Production,1985-03-07,9999-01-01
+68022,Kristinn,Pearson,Customer Service,1995-05-07,1999-06-26
+68168,Marl,Thiria,Customer Service,1987-03-18,1996-12-31
+68263,Fumiko,Bodoff,Sales,1991-12-19,1993-07-11
+68416,Munenori,Debuse,Production,1990-11-08,9999-01-01
+68608,Yucai,Seghrouchni,Production,1989-06-09,9999-01-01
+68633,Chinhyun,Rassart,Production,1993-07-29,9999-01-01
+68648,Jaques,DiGiano,Development,1992-04-01,9999-01-01
+69052,Shietung,Shrader,Sales,1995-08-05,9999-01-01
+69219,Shuky,Redmiles,Marketing,1994-11-19,9999-01-01
+69867,Miyeon,Rothe,Sales,1991-04-09,9999-01-01
+69878,Chinya,Cooke,Development,1997-01-29,9999-01-01
+69936,Lalit,Unni,Production,1999-01-31,9999-01-01
+70469,Tru,Miyakawa,Marketing,1990-09-03,9999-01-01
+70780,Behnaam,Angelov,Development,1995-01-29,1999-07-20
+70990,Arumugam,Nitta,Production,1990-03-23,9999-01-01
+71066,Domenick,Basart,Sales,1996-01-05,9999-01-01
+71141,Sajjad,Vitiello,Human Resources,1992-02-17,9999-01-01
+71188,Pranjal,Schapiro,Sales,1986-12-14,9999-01-01
+71243,Kinh,Buchter,Production,1986-03-29,9999-01-01
+71334,Cathie,Peck,Research,2001-03-04,9999-01-01
+71685,Kristinn,Olano,Production,1989-10-03,9999-01-01
+71710,Hitomi,Takanami,Development,1997-12-15,9999-01-01
+71745,Adil,Laventhal,Development,1992-05-13,9999-01-01
+72190,Sajjad,Waeselynck,Development,1999-09-13,9999-01-01
+72194,Feiyu,Siepmann,Production,1998-10-01,9999-01-01
+72232,Naraig,Veldwijk,Quality Management,1989-07-10,9999-01-01
+72640,Honglan,Hutton,Quality Management,1993-10-04,9999-01-01
+72918,Takahira,Szilard,Sales,1988-01-16,9999-01-01
+73076,Froduald,Feldhoffer,Development,1993-03-16,9999-01-01
+73233,Shigeo,Merey,Production,1985-07-30,9999-01-01
+73516,Qingxiang,Badache,Production,1989-06-25,9999-01-01
+73743,Anneke,Bernardeschi,Customer Service,2000-10-15,9999-01-01
+73794,Aiichiro,Castellani,Development,1985-08-26,1987-08-19
+73903,Bartek,Cappello,Development,1988-07-28,1993-01-02
+74200,Holgard,Weiland,Production,1991-09-24,9999-01-01
+74237,Jaihie,Vilarrasa,Quality Management,1992-03-03,2001-06-20
+74344,Hiroyasu,Provine,Development,1994-11-25,9999-01-01
+74598,Kolar,Garigliano,Marketing,1992-05-10,1999-03-07
+74668,Masako,Bonifati,Sales,1987-04-09,9999-01-01
+74800,Yuuichi,Conde,Production,1989-03-08,9999-01-01
+75113,Zissis,Birch,Development,1994-08-19,2000-07-15
+75354,Shuky,Jakobus,Development,1986-06-16,9999-01-01
+75420,Clyde,Vrecion,Quality Management,1997-07-03,2000-09-14
+75703,Kyoichi,Erman,Development,1996-07-25,9999-01-01
+75760,Jahangir,Radhakrishnan,Development,1991-04-19,1993-12-29
+75888,Marsal,Otillio,Research,1994-01-23,1999-09-16
+76178,Chiradeep,Meriste,Production,1988-05-23,1997-06-25
+76189,Kolar,Hinsberger,Production,1986-10-20,9999-01-01
+76201,Arif,Preusig,Development,1992-04-02,9999-01-01
+76417,Parviz,Duclos,Development,1989-12-27,1993-12-31
+76598,Keung,Ferriere,Production,1991-05-13,1995-10-08
+76640,Tristan,Mitsuhashi,Quality Management,1994-07-13,9999-01-01
+76847,Mariusz,Weiland,Development,1989-08-16,1994-11-09
+77030,Faiza,Garnham,Development,1986-03-02,9999-01-01
+77157,Tesuro,Nicolson,Customer Service,1996-06-01,1999-10-20
+77303,Xinglin,Birge,Customer Service,1992-03-05,9999-01-01
+77647,Niranjan,Schaaf,Production,1989-11-05,9999-01-01
+77815,Ronghao,Picaronny,Development,1993-06-09,9999-01-01
+78086,Fabrizio,Anick,Research,1997-12-16,1998-05-02
+78106,Ashish,Ratnaker,Marketing,2000-01-17,9999-01-01
+78171,Teiji,Hinsberger,Customer Service,1997-01-25,2002-05-18
+78363,Susumu,Fritzsche,Quality Management,1998-06-23,9999-01-01
+78469,Leucio,Cappelli,Human Resources,1997-08-22,9999-01-01
+78871,Conor,Ghandeharizadeh,Development,1985-05-25,9999-01-01
+79043,Katsuo,Hockney,Production,1999-11-07,9999-01-01
+79171,Guiseppe,Ellozy,Production,1991-01-12,9999-01-01
+79190,Tsuneo,Servi,Sales,1999-06-30,2001-06-02
+79239,Denny,Griswold,Quality Management,1989-05-18,2001-11-19
+79310,Jeong,Cunliffe,Marketing,1996-10-27,9999-01-01
+79606,Arnd,Peir,Development,1986-12-11,9999-01-01
+79640,Marl,Litzkow,Research,1991-10-12,1993-10-22
+79722,Make,Remmers,Sales,1997-08-07,1998-08-08
+79763,Sanjoy,Barreiro,Marketing,1988-04-09,9999-01-01
+79895,Fei,Murtagh,Sales,1986-01-19,9999-01-01
+80067,Kazuhisa,Weiland,Customer Service,1985-11-09,9999-01-01
+80203,Shakhar,Baik,Sales,1993-12-01,9999-01-01
+80432,Stella,Figueira,Research,1990-03-14,9999-01-01
+80656,Kwan,Gide,Development,1998-06-24,2001-07-01
+80731,Shaowen,Eldridge,Sales,1987-12-05,9999-01-01
+80745,Rimli,Huttel,Sales,1989-12-14,1996-11-29
+80850,Koldo,Luit,Production,1995-04-16,9999-01-01
+80889,Shigeo,Linnainmaa,Development,1985-07-30,9999-01-01
+80948,Harjit,Bardell,Development,1991-05-24,9999-01-01
+81105,Jaewon,Boissier,Development,1992-05-24,9999-01-01
+81162,Marco,Klerer,Research,1995-02-28,2001-02-02
+81545,Larisa,Kornyak,Development,2000-02-07,9999-01-01
+81619,Gen,Aloisi,Development,1985-03-12,2002-07-25
+81644,Divine,Ghandeharizadeh,Sales,1997-11-28,9999-01-01
+81995,Sreekrishna,Brender,Development,1990-03-22,9999-01-01
+82069,Yechezkel,Perfilyeva,Production,1994-11-03,9999-01-01
+82098,Poornachandra,Wilharm,Production,1991-04-20,9999-01-01
+82351,Stevo,Thambidurai,Human Resources,1989-10-27,9999-01-01
+82511,Uwe,Koblick,Development,1998-04-04,9999-01-01
+82919,Shigeu,Claffy,Development,1998-12-19,9999-01-01
+82928,Alselm,Rikino,Development,1990-11-16,9999-01-01
+83280,Francesca,Ellozy,Production,1999-08-08,9999-01-01
+83289,Shigeichiro,Engelmann,Development,1994-01-09,9999-01-01
+83509,Breannda,Collavizza,Development,1989-10-12,9999-01-01
+83544,Leaf,Baak,Sales,1994-09-05,9999-01-01
+83714,Ohad,Kilgore,Customer Service,2000-10-10,9999-01-01
+83805,Manohar,Harllee,Development,1987-03-11,9999-01-01
+83922,Shunichi,Solovay,Production,1986-06-07,1998-11-18
+83941,Zsolt,Hagimont,Research,1996-10-08,9999-01-01
+84029,Babette,Eugenio,Customer Service,1997-09-21,9999-01-01
+84163,Zejun,Roisin,Finance,1997-05-26,2002-01-16
+84179,Shuichi,Nanard,Production,1989-03-14,9999-01-01
+84236,Eberhardt,Barriga,Sales,1987-06-04,9999-01-01
+84256,Denny,Cheshire,Sales,1989-11-23,1992-08-08
+84315,Kristina,Baumann,Development,1996-09-26,9999-01-01
+84451,Shiv,Aumann,Development,1998-06-14,9999-01-01
+84494,Janalee,Loncour,Finance,1986-04-12,1987-09-04
+84508,Tommaso,Vidya,Development,1998-05-02,9999-01-01
+84840,Sverrir,Neimat,Research,1996-11-03,9999-01-01
+84922,Parke,Unno,Development,1996-07-01,9999-01-01
+84942,Shin,Fujisaki,Quality Management,1988-02-23,9999-01-01
+85216,Ferdinand,Rosiles,Finance,1997-07-08,9999-01-01
+85288,Younwoo,Luders,Quality Management,1998-12-08,9999-01-01
+85414,Chiradeep,Callaway,Finance,1999-07-30,9999-01-01
+85445,Yongdong,Pollock,Sales,1998-03-17,9999-01-01
+85702,Udi,Merks,Quality Management,1997-08-15,9999-01-01
+85874,Pasqua,Taubman,Customer Service,1986-06-23,9999-01-01
+86213,Kristine,Clemencon,Marketing,1993-06-01,9999-01-01
+86324,Maia,Berstel,Quality Management,1997-09-29,2002-01-13
+86354,Ronghao,Segond,Development,1993-09-13,9999-01-01
+86422,Jaewon,Thummel,Marketing,1985-09-14,9999-01-01
+86546,Oldrich,Woycyznski,Production,1985-05-15,9999-01-01
+86655,Zhenhua,Lorys,Production,1995-08-21,9999-01-01
+86672,JoAnne,Anido,Research,1995-09-15,9999-01-01
+87129,Keung,Neiman,Sales,1997-04-13,9999-01-01
+87353,Quingbo,Coombs,Development,1999-01-17,9999-01-01
+87458,Mikhail,Gimbel,Sales,1993-12-22,1999-04-29
+87714,Khun,Janetzko,Production,1989-09-13,9999-01-01
+87729,Yongmin,Roccetti,Research,1986-12-10,9999-01-01
+87783,Conor,Thorensen,Development,1988-02-24,9999-01-01
+88103,Goo,Bresenham,Sales,1999-01-31,9999-01-01
+88357,Manohar,Karcich,Research,1998-08-07,2000-08-22
+88411,Lena,Cannane,Development,2000-01-28,9999-01-01
+88422,Jungsoon,Birsak,Production,1985-04-03,9999-01-01
+88647,Vasiliy,Ratnaker,Development,1995-08-09,9999-01-01
+88958,Vojin,Coombs,Finance,1995-07-23,9999-01-01
+88965,Mang,Hedayat,Development,1995-05-22,9999-01-01
+89048,Otmar,Birjandi,Development,1985-03-23,9999-01-01
+89090,Tetsushi,Theuretzbacher,Human Resources,1990-02-01,9999-01-01
+89161,Conal,Yetto,Finance,1991-01-12,9999-01-01
+89207,Along,Erol,Human Resources,1992-10-16,9999-01-01
+89346,Mansur,Comyn,Development,1999-08-31,9999-01-01
+89487,Kazuhira,Seiwald,Development,1995-03-25,1999-03-24
+89590,Guther,Rothenberg,Research,1991-08-08,9999-01-01
+89664,Pranjal,Rossi,Marketing,1998-07-07,9999-01-01
+89680,Aiman,Mawatari,Production,1988-05-01,9999-01-01
+89806,Xiadong,Shinomoto,Production,1997-05-24,9999-01-01
+89922,Alexius,Ibel,Production,1988-04-24,9999-01-01
+89941,Arnould,Weedman,Marketing,1989-07-28,9999-01-01
+90077,Vivian,Guerreiro,Development,1991-07-08,9999-01-01
+90084,Renny,Bale,Production,1989-11-22,9999-01-01
+90116,Brigham,Luiz,Development,1990-04-10,1995-06-10
+90211,Bader,Denis,Production,1997-10-06,9999-01-01
+90292,Koichi,Assaf,Production,1990-05-26,9999-01-01
+90366,Magy,Eiron,Customer Service,1998-08-03,2002-03-03
+90518,Fumiko,Chepyzhov,Customer Service,1988-01-28,9999-01-01
+90614,Yonghoan,Trogemann,Production,1988-09-23,9999-01-01
+90692,Rajmohan,DasSarma,Marketing,1985-09-14,9999-01-01
+91172,Kazuhisa,Melter,Customer Service,1987-07-16,9999-01-01
+91182,Lucien,Schwartzburd,Development,1988-08-25,9999-01-01
+91229,Yahiko,Hebden,Production,1996-10-03,9999-01-01
+91256,Gunilla,Milicic,Marketing,1998-01-09,9999-01-01
+91308,Remmert,Plumb,Development,1986-06-14,1995-12-08
+91333,Lobel,Stafford,Sales,1998-11-29,9999-01-01
+91415,Jamaludin,Nilsson,Sales,1987-01-15,9999-01-01
+91462,Siamak,Janocha,Development,1997-08-26,1998-03-21
+91648,Dmitry,Msuda,Marketing,1988-10-22,9999-01-01
+91934,Nikolaus,Swen,Production,2000-01-28,2002-07-03
+91973,Jianwen,Jakobus,Development,1998-08-24,2001-02-12
+92438,Aria,Kilgore,Customer Service,1992-04-11,9999-01-01
+92443,Girolamo,Bellmore,Customer Service,1996-12-04,2000-04-27
+92454,Visit,McFarlan,Quality Management,1987-10-22,9999-01-01
+92577,Zhanqiu,Farrow,Production,1999-01-10,9999-01-01
+92598,Ranga,Merro,Production,1996-05-11,9999-01-01
+92685,Mang,Atchley,Sales,1995-06-07,9999-01-01
+92841,Claude,Candan,Sales,1993-08-04,9999-01-01
+92846,Anyuan,Kropatsch,Marketing,1986-09-05,9999-01-01
+92920,Huei,Hutter,Development,1993-01-28,9999-01-01
+93040,Jaques,Kabayashi,Development,1992-03-13,9999-01-01
+93220,Richara,Walston,Quality Management,1996-08-27,9999-01-01
+93278,Magdalena,Penn,Production,1997-01-04,9999-01-01
+93549,Arie,Coullard,Sales,2000-03-28,9999-01-01
+93600,Kristina,Neimat,Production,1988-04-18,9999-01-01
+93794,Rimli,Werthner,Production,1994-05-27,2000-12-30
+94045,Gift,Brender,Development,1996-10-31,2000-01-02
+94131,Bernardo,Vasanthakumar,Finance,1997-05-01,1997-07-20
+94331,Ramzi,Cronau,Production,1999-09-03,9999-01-01
+94416,Aran,Cesareni,Sales,2001-11-20,9999-01-01
+94442,Bilhanan,Marrakchi,Finance,1998-02-03,2000-10-12
+94690,Kazuyasu,Sridhar,Finance,1999-12-22,2001-12-03
+94761,Hitofumi,Zaccaria,Development,1988-11-22,9999-01-01
+94787,Shigenori,Stanfel,Customer Service,1993-04-25,1999-12-11
+94944,Heping,Matheson,Development,1988-06-24,9999-01-01
+95181,Yishai,Cappelli,Research,1997-01-30,9999-01-01
+95286,Kristin,Guerreiro,Development,1989-08-23,9999-01-01
+95314,Rasiah,Koblick,Sales,1991-08-21,9999-01-01
+95406,Alair,Lyonns,Development,1997-07-12,9999-01-01
+95416,Gianluca,Ramaiah,Development,1993-11-29,9999-01-01
+95509,Kristinn,Loncour,Production,1995-02-08,9999-01-01
+95692,Abdulah,Hofstetter,Quality Management,2000-05-24,2000-07-24
+95920,Nobuyoshi,Hegner,Finance,1994-09-07,9999-01-01
+96100,Pranay,Rebaine,Production,1998-02-01,2000-12-31
+96571,Kokou,Garrabrants,Production,1997-11-05,9999-01-01
+96579,Mohan,Tasistro,Production,1996-02-10,9999-01-01
+96767,Arumugam,Vecchio,Production,1985-08-14,9999-01-01
+97018,Jeanna,Chinen,Production,1989-01-01,9999-01-01
+97092,Anwar,Riexinger,Development,1991-12-31,2000-01-09
+97623,Haldon,Janetzko,Human Resources,1990-09-11,9999-01-01
+97661,Avishai,Hegner,Research,1993-05-08,9999-01-01
+97697,Moie,Karunanithi,Research,1994-11-02,2000-12-15
+98288,Sumali,Huttel,Research,1989-09-12,9999-01-01
+98306,Ziya,Kadhim,Production,1999-06-24,9999-01-01
+98514,Giao,Junot,Sales,1999-07-01,2002-02-25
+98639,Florina,Assaf,Research,1996-05-18,9999-01-01
+99057,Shugo,Reeken,Customer Service,1999-06-21,9999-01-01
+99373,Xiaobin,Christianini,Customer Service,1985-12-25,9999-01-01
+99377,Carrsten,Francisci,Development,1991-06-16,9999-01-01
+99590,Dhritiman,Anily,Sales,1998-12-16,9999-01-01
+99654,Mahendra,Motley,Research,1985-09-28,9999-01-01
+100865,Hisao,Peral,Production,1990-10-03,9999-01-01
+100877,Kazuhide,Harnett,Production,1995-02-02,1999-02-13
+100916,Heejo,Aamodt,Development,1992-04-22,9999-01-01
+101063,Nectarios,Munos,Development,1994-08-31,1995-08-14
+101487,Abdelaziz,Sury,Sales,1991-01-31,9999-01-01
+101647,Mori,Homond,Sales,1994-05-10,9999-01-01
+101902,Mantis,Millington,Sales,1991-03-18,9999-01-01
+102620,Adin,Templeman,Quality Management,1999-08-12,9999-01-01
+103166,Waiman,Dalton,Development,1990-05-25,2002-02-09
+103172,Doowon,Highland,Research,1989-12-28,1995-11-23
+103196,Djenana,Albarhamtoshy,Human Resources,1988-07-16,9999-01-01
+103310,Visit,Swen,Marketing,1995-10-02,9999-01-01
+103316,Susanne,Peternell,Development,1994-07-27,9999-01-01
+103342,Beshir,Hellwagner,Quality Management,1998-02-03,9999-01-01
+103756,Heping,Halloran,Development,1992-04-08,9999-01-01
+104133,Pranjal,Zyda,Sales,1991-07-03,9999-01-01
+104845,Werner,Lodder,Finance,1992-06-17,9999-01-01
+104962,Zongyan,Auyong,Production,1987-11-02,1991-12-22
+104988,Parviz,Litzler,Development,1992-08-08,9999-01-01
+105191,Jaber,Kleiser,Production,1986-12-13,1987-09-22
+105342,Kwun,Reeker,Quality Management,1999-07-29,9999-01-01
+105356,Diederik,Matzov,Research,1995-03-08,9999-01-01
+105432,Mohamadou,Stafford,Development,1995-09-12,9999-01-01
+105520,Haldun,Lienhardt,Sales,1987-01-29,9999-01-01
+105589,Yechiam,Egerstedt,Development,1995-12-31,1999-07-18
+105731,Sachem,Cromarty,Development,1990-08-20,9999-01-01
+105936,Vidar,Thibadeau,Sales,1995-03-02,1999-09-15
+106096,Naftali,Schurmann,Production,1992-12-02,9999-01-01
+106242,Nevio,Thisen,Human Resources,1988-03-25,9999-01-01
+106514,Otilia,Speek,Development,1988-07-30,1992-11-07
+106695,Lijie,Garrabrants,Development,1988-10-26,9999-01-01
+106710,Babette,Anandan,Marketing,1986-11-22,9999-01-01
+106958,Horward,Begiun,Production,1985-11-06,2002-05-22
+107486,Siamak,Luiz,Development,1987-02-11,9999-01-01
+107737,Fabrizio,Chleq,Development,1999-07-31,9999-01-01
+107792,Shahab,Crooks,Marketing,1992-03-18,9999-01-01
+107828,Ramya,Walston,Sales,1989-02-03,9999-01-01
+108091,Hisao,Ghemri,Customer Service,1985-11-14,9999-01-01
+108198,Randi,Samarati,Research,1992-10-20,9999-01-01
+108316,Shai,Stellhorn,Production,1992-05-21,9999-01-01
+108988,Oksana,Baek,Sales,1989-07-20,9999-01-01
+109062,Jamaludin,Kandlur,Development,1992-06-19,9999-01-01
+109211,Gor,Delgrande,Research,2002-06-18,9999-01-01
+109252,Moty,Winter,Production,1991-04-28,9999-01-01
+109278,Bangqing,Schach,Finance,1988-03-22,9999-01-01
+109547,Chenye,Zizka,Customer Service,1986-02-22,2002-04-21
+109552,Menkae,Etalle,Development,1997-05-21,9999-01-01
+109553,Xiaobin,DuBourdieux,Finance,1985-09-16,1988-05-11
+109598,Stamatina,Auyong,Finance,1988-07-05,9999-01-01
+109611,Jamaludin,Lalonde,Sales,1994-07-09,1998-08-24
+109620,Mani,Cannata,Sales,1989-06-21,9999-01-01
+109652,Huan,Perko,Human Resources,1988-07-31,1999-03-12
+109703,Arco,Walston,Production,1999-08-16,9999-01-01
+109741,Hatem,Fadgyas,Production,1991-11-13,9999-01-01
+109953,Godehard,Chorvat,Sales,1988-04-10,9999-01-01
+200052,Slavian,Cincotta,Development,1992-05-30,1997-07-07
+200176,Shahab,Luit,Sales,1985-11-20,1997-02-05
+200267,Chuanti,Luff,Customer Service,1994-09-21,9999-01-01
+200312,Akemi,Fujisaki,Quality Management,2001-11-13,9999-01-01
+200363,Kirk,Quaggetto,Development,1987-06-30,9999-01-01
+200735,Dinah,Denos,Marketing,1992-09-21,9999-01-01
+200789,Susumu,Camurati,Marketing,1991-12-15,9999-01-01
+201180,Odinaldo,Bridgland,Development,1989-06-09,1995-06-16
+201229,Alejandra,Khasidashvili,Human Resources,1994-07-30,9999-01-01
+201708,Anneli,Perl,Human Resources,1992-09-08,9999-01-01
+201709,Fan,Kakkad,Finance,1988-02-25,9999-01-01
+201739,Genta,Terekhov,Development,1998-07-21,9999-01-01
+201801,Waiman,Genin,Development,1988-10-30,9999-01-01
+201915,Sudharsan,DeMori,Production,1992-03-30,9999-01-01
+202031,Annemarie,Peternell,Development,1994-03-13,1997-06-05
+202291,Ortrun,Schmiedel,Production,1997-07-18,9999-01-01
+202403,Gully,Perko,Production,1999-07-07,9999-01-01
+202414,Zvonko,Murthy,Customer Service,1992-01-07,9999-01-01
+202552,Morris,Saoudi,Production,1991-11-22,9999-01-01
+202581,Dharmaraja,Merlo,Human Resources,1987-06-05,1990-12-16
+202826,Kerhong,Matzke,Development,1986-11-14,9999-01-01
+202882,Isaac,Koshino,Development,1995-09-28,9999-01-01
+202950,Giordano,Pietrzykowski,Human Resources,1987-03-26,9999-01-01
+203474,Hugh,Jonsson,Sales,1991-07-06,9999-01-01
+203495,Zongyan,Gips,Development,1997-05-31,9999-01-01
+203599,Ewing,DiGiano,Development,2000-02-01,9999-01-01
+203697,Claude,Kemmerer,Development,1994-01-16,2001-05-07
+203720,Sasan,Thimonier,Sales,1996-08-21,9999-01-01
+203946,Yefim,Marwedel,Human Resources,1993-03-30,9999-01-01
+204117,Jessie,Nooteboom,Customer Service,2000-12-13,9999-01-01
+204133,Susuma,Bergere,Finance,1996-02-25,9999-01-01
+204246,Arve,Worfolk,Research,1985-04-01,9999-01-01
+204425,Gretta,Huttel,Development,1990-10-08,9999-01-01
+204470,Hein,Lichtner,Customer Service,1998-05-02,9999-01-01
+204471,Franziska,Maginnis,Development,1986-02-17,9999-01-01
+204764,Susanne,Mandelberg,Development,1990-11-02,9999-01-01
+205018,Yahiko,Awdeh,Quality Management,1998-08-05,9999-01-01
+205085,Moni,Kornyak,Development,1991-09-26,9999-01-01
+205174,Leszek,Spinelli,Marketing,1998-12-10,9999-01-01
+205362,Masasuke,Makinen,Sales,1992-07-02,1997-06-01
+205500,Mary,Setiz,Development,1989-01-13,9999-01-01
+205627,Stabislas,Broder,Production,1996-07-16,9999-01-01
+205660,Kien,Barreiro,Marketing,2000-10-24,9999-01-01
+205699,Youjian,Yetto,Sales,1994-12-07,9999-01-01
+205789,Limsoon,Skafidas,Finance,1999-08-10,9999-01-01
+205863,Aiichiro,Kusalik,Quality Management,1990-10-04,9999-01-01
+206372,Temple,Joslin,Customer Service,1995-11-14,1996-04-24
+206748,Yucai,Fabrizio,Sales,1999-10-06,9999-01-01
+206836,Guadalupe,Pfau,Research,1993-03-22,9999-01-01
+206865,Vasilii,Cochrane,Production,1991-09-13,2001-04-23
+206966,Tzu,Sichman,Development,1987-11-17,9999-01-01
+207021,Jacqueline,Akaboshi,Production,1997-12-06,9999-01-01
+207068,Zhiguo,Ariola,Marketing,1994-09-07,9999-01-01
+207204,Kellie,Schrooten,Development,1991-01-17,9999-01-01
+207401,Shuji,Barbanera,Research,1987-08-10,9999-01-01
+207551,Baziley,Falck,Development,1995-02-18,9999-01-01
+207779,Chinya,Kamble,Research,1992-05-31,9999-01-01
+207980,Remko,Vieth,Human Resources,1990-11-22,9999-01-01
+208147,Manu,Rothenberg,Development,1988-12-06,9999-01-01
+208330,Shen,Flanders,Sales,1989-07-03,9999-01-01
+208639,Larisa,Lukaszewicz,Customer Service,1996-10-30,9999-01-01
+208653,Phillip,Schade,Development,1989-03-03,9999-01-01
+208784,Pranjal,Juneja,Production,1985-03-21,9999-01-01
+209101,Xinyu,Edelhoff,Quality Management,1997-10-26,9999-01-01
+209443,Krassimir,Garnier,Human Resources,1998-01-26,9999-01-01
+209456,Adhemar,Leonhardt,Customer Service,1999-07-27,1999-12-30
+209565,Dante,Covnot,Marketing,1989-05-28,9999-01-01
+209681,Tianruo,Bratten,Marketing,1997-10-10,1998-04-03
+209712,Nimmagadda,Baak,Development,1987-10-30,9999-01-01
+209945,Roded,Veevers,Development,1990-10-23,1996-01-08
+210017,Shalesh,Lovengreen,Human Resources,1990-09-29,9999-01-01
+210292,Lihong,Zeilberger,Human Resources,1996-04-28,9999-01-01
+210449,Gino,Lagarias,Production,1997-06-22,9999-01-01
+210529,Adam,Besancenot,Sales,1990-09-27,1995-02-04
+210610,Arco,Crouzet,Development,1994-09-03,2000-09-30
+210752,Saniya,Stenning,Marketing,1986-12-10,9999-01-01
+210786,Werner,Ranze,Human Resources,1998-06-05,9999-01-01
+211569,Zhonghua,Snyers,Finance,1989-04-23,1999-07-18
+211858,Domenico,Ratnaker,Production,1985-03-24,9999-01-01
+211879,Gao,Ranze,Development,1994-11-24,9999-01-01
+211967,Anwar,Bain,Development,1989-01-22,9999-01-01
+212074,Tomokazu,Byoun,Production,1996-07-30,2002-04-08
+212093,Leni,Henders,Human Resources,1993-11-19,9999-01-01
+212131,Debatosh,Rajala,Marketing,1994-01-19,1994-04-22
+212154,Sailaja,Holburn,Customer Service,1991-03-04,9999-01-01
+212361,Claudi,Stanfel,Quality Management,1996-01-07,9999-01-01
+212703,Kien,Bennis,Development,1993-01-06,1998-03-14
+212810,Qingxiang,Swan,Customer Service,1990-10-04,2002-03-13
+213016,Yongmao,Fontan,Development,1993-07-26,9999-01-01
+213140,Tru,Danecki,Sales,1997-03-31,9999-01-01
+213384,Pranas,Narwekar,Development,1985-09-26,9999-01-01
+213447,Armond,Perly,Production,1989-09-14,9999-01-01
+214184,Sivanarayana,Ranka,Development,1999-10-25,2001-05-03
+214215,Xiaoqiang,Cardazo,Sales,1993-05-28,9999-01-01
+214391,Rayond,Klassen,Customer Service,1993-09-11,9999-01-01
+214427,Peer,Molberg,Production,1996-11-17,9999-01-01
+214539,Ingmar,Kohling,Development,1995-04-25,9999-01-01
+214634,Shirish,Vickson,Development,1989-10-24,9999-01-01
+214789,Arfst,Chepyzhov,Production,1989-02-06,9999-01-01
+214807,Prasadram,Qiwen,Quality Management,1992-09-04,1997-11-25
+214866,Gopalakrishnan,Angel,Development,1997-07-05,9999-01-01
+214995,Dinkar,Hoppenstand,Production,1994-05-04,9999-01-01
+215419,Flemming,Kroha,Human Resources,1995-01-23,9999-01-01
+215629,Munehiro,Manders,Customer Service,1987-05-18,9999-01-01
+215746,Sven,Speer,Finance,1999-07-08,9999-01-01
+215843,Pramod,Loncour,Marketing,1987-03-31,9999-01-01
+216054,Sahrah,Angiulli,Research,1986-07-31,9999-01-01
+216062,Shuichi,Anick,Development,1985-11-24,1999-10-26
+216246,Francoise,Rullman,Marketing,1997-12-30,2000-01-12
+216342,Aiichiro,Cromarty,Development,1995-06-10,9999-01-01
+216375,Byong,Gustavson,Development,1985-03-12,9999-01-01
+216502,Xiaocheng,Suermann,Development,1997-12-15,9999-01-01
+216573,Ashish,Vidya,Production,1989-06-16,9999-01-01
+216921,Lena,Lenart,Sales,1990-12-25,9999-01-01
+217026,Otmar,Engberts,Sales,1993-08-16,9999-01-01
+217080,Masami,Puoti,Development,2000-01-21,9999-01-01
+217272,Yuchang,Eldridge,Sales,1986-08-01,9999-01-01
+217286,Yannik,Spelt,Development,1992-09-22,9999-01-01
+217320,Abdelwaheb,Denis,Quality Management,1993-09-10,9999-01-01
+217363,Horward,Marzano,Customer Service,1996-04-11,9999-01-01
+217387,Jianhao,Molenaar,Development,1987-10-22,9999-01-01
+217551,Panayotis,Lukaszewicz,Production,1989-06-06,9999-01-01
+217800,Shay,Servieres,Finance,1998-08-06,9999-01-01
+218022,Mokhtar,Poupard,Development,1992-02-02,9999-01-01
+218100,Jiong,Garnham,Human Resources,1990-01-02,9999-01-01
+218299,Almudena,Genin,Human Resources,1986-09-26,2001-11-06
+218829,Eckart,Foong,Marketing,1989-11-26,1996-01-28
+218831,Unal,DuBourdieux,Production,1996-03-13,9999-01-01
+219035,Kristine,Bierman,Quality Management,1988-05-13,9999-01-01
+219047,Aemilian,Kusalik,Development,1987-05-27,9999-01-01
+219052,Marsal,Acton,Marketing,1995-08-02,9999-01-01
+219417,Subhrajyoti,Denna,Research,1996-07-25,9999-01-01
+219497,Moie,Zastre,Development,1991-10-11,9999-01-01
+219967,Susanna,Reeken,Human Resources,1998-03-16,9999-01-01
+220029,Demos,Asser,Development,1985-11-04,9999-01-01
+220131,Reinhard,Slaats,Development,1994-06-08,9999-01-01
+220418,Poorav,Laventhal,Sales,1997-08-16,9999-01-01
+220528,Sibyl,Rabehasaina,Research,1998-02-23,9999-01-01
+220582,Poornachandra,Zielinski,Marketing,1996-02-13,9999-01-01
+220611,Yuping,Babb,Sales,1995-01-31,9999-01-01
+220625,Shigenori,Deville,Production,1992-12-24,9999-01-01
+220699,Nahid,Gyimothy,Customer Service,1995-08-18,9999-01-01
+220799,Perla,Orlowska,Research,1998-10-13,9999-01-01
+221126,Tesuya,dAstous,Development,1988-11-29,9999-01-01
+221367,Saddek,Farris,Customer Service,1990-11-06,9999-01-01
+221369,Abdulah,Pocchiola,Quality Management,1996-08-28,9999-01-01
+221435,Djenana,Marrevee,Production,1994-02-06,9999-01-01
+221699,Szabolcs,Georgatos,Development,1999-08-16,2000-02-06
+221973,Sangeeta,Kalefeld,Marketing,1990-06-06,9999-01-01
+222206,Stein,Uludag,Human Resources,1988-01-30,9999-01-01
+222311,Miyeon,Billingsley,Development,1992-12-05,9999-01-01
+222319,Matt,Chvatal,Development,1994-11-09,9999-01-01
+222354,Valdiodio,Schlumberger,Development,1993-08-07,9999-01-01
+222616,Badri,Schapire,Quality Management,1998-01-19,9999-01-01
+222701,Lein,Delaune,Sales,1990-06-30,1991-09-14
+222770,Kazuhiko,Kushner,Development,1995-08-01,9999-01-01
+222878,Annemarie,Zallocco,Production,1996-12-01,9999-01-01
+222926,Limsoon,Erol,Development,1997-12-31,9999-01-01
+222952,Gopalakrishnan,Suermann,Production,1991-04-30,9999-01-01
+222998,Leaf,Awdeh,Marketing,1992-10-02,9999-01-01
+223593,Hidefumi,Moehrke,Marketing,1998-03-04,9999-01-01
+223595,Chiranjit,Dredge,Production,1999-09-05,9999-01-01
+224135,Annemarie,Bressoud,Development,1998-06-23,9999-01-01
+224335,Perry,Chachaty,Development,1985-07-22,9999-01-01
+224390,True,Shobatake,Research,1996-05-17,9999-01-01
+224934,George,Miake,Human Resources,1988-01-02,9999-01-01
+225438,Remmert,Quaggetto,Sales,1992-04-28,9999-01-01
+225601,Masasuke,Genin,Development,1994-06-25,9999-01-01
+225788,Ipke,Kieras,Development,1995-12-18,9999-01-01
+225867,Ramalingam,Remmele,Quality Management,1999-09-03,9999-01-01
+225964,Mooi,Cooman,Production,1989-06-07,9999-01-01
+226216,Giordano,Gini,Quality Management,1993-08-14,9999-01-01
+226227,Herbert,Erva,Production,1986-09-06,9999-01-01
+227354,Gio,Murtha,Development,1986-11-11,9999-01-01
+227476,Macha,Schnabel,Development,1988-05-11,9999-01-01
+227681,Mikhail,Rousseau,Finance,1998-11-30,9999-01-01
+227899,Garnik,Luce,Marketing,1998-09-15,9999-01-01
+227901,Francesca,Azuma,Research,1996-06-08,9999-01-01
+228098,IEEE,Kroll,Customer Service,1998-02-17,9999-01-01
+228248,Yuriy,Plump,Research,1988-09-08,9999-01-01
+228554,Bilhanan,Brendel,Sales,1990-12-23,9999-01-01
+228575,Takanari,Pelc,Development,1990-08-18,1992-09-25
+228766,Nahla,Smailagic,Production,1993-02-12,9999-01-01
+229098,Berry,Yurek,Customer Service,1995-08-16,9999-01-01
+229207,Filipe,Erol,Development,1997-07-11,1999-08-15
+229220,Fabrizio,Lichtman,Production,1987-02-09,9999-01-01
+229248,Harjit,Terekhov,Research,1995-10-19,9999-01-01
+229352,Kwangho,Petereit,Production,1999-08-10,2000-05-06
+229364,Dulce,Magliocco,Sales,1987-02-13,1987-02-23
+229386,Pohua,Tasistro,Customer Service,1994-11-04,9999-01-01
+229391,Paloma,Henseler,Production,1991-06-11,9999-01-01
+229404,Gilbert,Kilgour,Human Resources,1996-04-05,9999-01-01
+229547,Moni,Schach,Sales,1986-07-04,9999-01-01
+229690,Mokhtar,Sherertz,Sales,1988-06-09,1995-11-08
+229727,Ewing,Millington,Development,1999-09-28,9999-01-01
+229981,Jamaludin,Fordan,Production,1992-02-06,9999-01-01
+230002,Tadahiro,Backhouse,Development,1991-10-02,9999-01-01
+230126,Bezalel,Radivojevic,Customer Service,1988-07-02,9999-01-01
+230287,Renny,Alameldin,Production,1997-09-28,9999-01-01
+230354,Yinghua,Lorho,Human Resources,1991-08-09,9999-01-01
+230498,Kolar,Puppo,Production,1990-04-25,9999-01-01
+230579,Shahar,Negoita,Finance,1994-03-19,9999-01-01
+230689,Dietrich,Crabtree,Sales,1986-05-24,9999-01-01
+230821,Toshiki,Raney,Finance,1997-07-03,2000-03-21
+230865,Takushi,Brattka,Marketing,1999-06-03,9999-01-01
+231043,Torsten,Slobodova,Development,1992-07-20,2000-04-01
+231069,Trygve,Siksek,Sales,1995-11-09,9999-01-01
+231459,Nectarios,Pramanik,Production,1999-11-18,9999-01-01
+231671,Chandrasekaran,Pearson,Customer Service,1995-04-14,9999-01-01
+231798,Goetz,Alvarado,Development,1988-12-25,9999-01-01
+232178,Etsuo,Anandan,Human Resources,1989-12-13,9999-01-01
+232209,Nitsan,Rouquie,Quality Management,1988-08-01,9999-01-01
+232458,Nikolaus,Yetto,Marketing,1990-09-22,1992-08-22
+232496,Peternela,Klerer,Human Resources,1986-06-06,1994-06-08
+232697,Barry,Ramsak,Production,1990-09-07,9999-01-01
+232723,Tesuya,Bugrara,Quality Management,1993-02-13,9999-01-01
+233114,Alselm,Gargeya,Development,1987-12-25,9999-01-01
+233247,Murthy,Angiulli,Production,1986-08-02,1998-07-21
+233394,Khalid,Lenart,Development,1995-12-24,9999-01-01
+233397,Fay,Sundgren,Sales,1990-07-07,9999-01-01
+233426,Etsuo,Usery,Development,1995-03-02,9999-01-01
+233533,Seongbae,Sluis,Customer Service,1988-09-22,1997-06-10
+233690,Cedric,Riefers,Development,1994-09-08,9999-01-01
+233759,Zissis,Lodder,Customer Service,2000-05-27,9999-01-01
+233765,Kotesh,Chachaty,Development,1991-03-25,9999-01-01
+233785,Baziley,Ballarin,Sales,1987-07-28,9999-01-01
+233818,Kellie,Heydon,Development,1985-11-11,9999-01-01
+234195,Luerbio,Terkki,Sales,1991-05-14,9999-01-01
+234278,Tzu,Impagliazzo,Finance,1990-11-14,1993-12-05
+234739,Foong,Aamodt,Production,1986-06-28,9999-01-01
+235017,Irena,Dratva,Sales,1991-09-07,9999-01-01
+235096,Sverrir,Gyimothy,Customer Service,1995-07-30,9999-01-01
+235269,Keiichiro,Feldmann,Research,1997-12-20,1998-12-30
+235325,Gro,Prochazka,Development,1992-10-16,9999-01-01
+235368,Anneli,Joslin,Production,1987-04-12,9999-01-01
+235458,Gio,Heuser,Research,1992-06-28,9999-01-01
+235546,Tianruo,Speer,Sales,1985-10-30,1989-03-26
+235729,Henk,Anger,Marketing,1993-01-19,9999-01-01
+235780,Sampalli,Bergere,Production,1994-04-08,9999-01-01
+235793,Jayesh,Spinelli,Quality Management,1999-01-16,9999-01-01
+236315,IEEE,Raczkowsky,Development,1996-07-24,9999-01-01
+236559,Berna,Nanard,Production,1989-08-20,1991-03-18
+236566,Yechezkel,Maginnis,Customer Service,1992-12-11,9999-01-01
+236591,Insup,Reinhard,Marketing,1985-04-08,9999-01-01
+236827,Almudena,Rijckaert,Development,1994-02-16,9999-01-01
+236883,Huan,Olivero,Sales,1999-11-19,9999-01-01
+236964,Adel,Foote,Customer Service,2000-03-20,9999-01-01
+237289,Brendon,Fritzsche,Marketing,1998-01-19,1999-12-18
+237400,Guadalupe,Perri,Production,1996-06-27,1999-08-21
+237590,Annemarie,Irland,Research,1991-07-30,1996-09-04
+238112,Miomir,Frezza,Production,1991-05-25,9999-01-01
+238252,Uno,Suppi,Sales,1996-12-27,9999-01-01
+238422,Vishv,Angelov,Sales,1988-03-08,9999-01-01
+238949,Minghong,Cronin,Sales,1987-10-04,9999-01-01
+239067,Tadahiko,Pocchiola,Sales,1996-04-02,9999-01-01
+239244,Abdulla,Kitai,Sales,1987-02-20,9999-01-01
+239415,Susumu,Brender,Production,1993-04-17,9999-01-01
+239426,Vesna,Fairtlough,Research,2002-05-07,9999-01-01
+239581,Guangming,Marquardt,Sales,1997-06-06,2001-03-21
+239664,Sugwoo,Michaels,Production,1992-08-02,9999-01-01
+239706,Arunas,Bugrara,Production,1997-04-03,9999-01-01
+239748,Bilhanan,Dusink,Sales,1988-06-04,9999-01-01
+239803,Oscal,Ernst,Research,1992-05-19,9999-01-01
+240011,Heather,Luef,Production,1989-02-24,1992-07-14
+240132,Mizuhito,Kobara,Customer Service,1996-08-09,9999-01-01
+240236,True,Tischendorf,Production,1986-01-19,9999-01-01
+240253,Shrikanth,Ramaiah,Production,1995-05-12,2000-10-15
+240285,Kolar,Greenaway,Customer Service,1998-11-14,9999-01-01
+240340,Mack,Staylopatis,Production,1985-04-02,9999-01-01
+240438,Temple,Cyre,Customer Service,1992-09-30,9999-01-01
+240870,Francesca,Chorvat,Production,1992-03-17,9999-01-01
+241100,Cedric,Molenaar,Development,1990-10-06,9999-01-01
+241254,Jagoda,Anguita,Development,1993-05-11,9999-01-01
+241292,Uri,Lampe,Customer Service,2001-12-11,9999-01-01
+241567,Emran,Miara,Development,1989-05-02,9999-01-01
+241667,Atilio,Olivero,Production,1985-09-04,9999-01-01
+241728,Limsoon,Boudaillier,Customer Service,1999-08-08,9999-01-01
+241872,Bluma,Fetvedt,Development,2001-11-14,9999-01-01
+241917,Wuxu,Poupard,Sales,1994-02-15,1995-09-25
+241952,Maya,Anandan,Sales,1996-06-28,1997-11-07
+242019,Herb,Murrill,Production,2001-10-28,9999-01-01
+242081,Tomokazu,Pargas,Production,1996-11-15,9999-01-01
+242104,Richara,Sudkamp,Marketing,1989-09-05,9999-01-01
+242237,Hidde,Papsdorf,Sales,1998-11-07,1998-11-23
+242314,Miyeon,Burnard,Production,1985-02-07,1985-12-13
+242500,Bingning,Iisaku,Sales,1989-06-26,9999-01-01
+242611,Frazer,Flanders,Production,1995-08-25,2000-09-25
+242800,Kazuyasu,Levergood,Development,1996-02-10,9999-01-01
+242867,Paddy,Nittel,Development,1999-11-10,2000-04-14
+243018,Bowen,Deverell,Marketing,1998-12-27,9999-01-01
+243077,Kazunori,Perz,Production,1999-02-25,9999-01-01
+243576,Abdulah,Lodder,Sales,1996-11-10,9999-01-01
+243637,Marjo,Delgrange,Marketing,1990-06-24,9999-01-01
+243898,Arch,Basawa,Marketing,1998-05-10,9999-01-01
+244308,Mokhtar,Rebaine,Marketing,1991-07-23,9999-01-01
+244605,Masoud,Suwa,Finance,1998-10-10,9999-01-01
+244624,Boaz,Seuren,Research,1987-03-27,9999-01-01
+244711,Rosli,Butner,Production,1991-03-20,9999-01-01
+244714,Poorav,Clouatre,Production,1996-05-06,9999-01-01
+244820,Shigenori,Hertweck,Development,1987-04-13,9999-01-01
+244873,Arunachalam,Oppitz,Sales,1986-05-20,9999-01-01
+245164,Filipp,Winter,Production,1996-10-24,9999-01-01
+245396,Gift,Bottner,Human Resources,1995-03-04,9999-01-01
+245664,Manohar,Kilgore,Sales,1998-11-17,9999-01-01
+246146,Zhongwei,Melski,Quality Management,1987-09-04,9999-01-01
+246244,George,Casperson,Human Resources,2000-01-20,9999-01-01
+246364,Alper,Tiemann,Development,1998-10-29,9999-01-01
+246764,Shuzo,Czaja,Sales,1997-11-29,9999-01-01
+246798,Tianruo,Strooper,Marketing,2001-12-07,9999-01-01
+246902,Shih,Shanbhogue,Human Resources,1998-04-19,9999-01-01
+247089,Seongbae,Schahn,Sales,1992-12-10,9999-01-01
+247122,Xiaobin,Narlikar,Human Resources,1992-02-14,9999-01-01
+247447,Tzu,Bakhtari,Production,1994-03-18,9999-01-01
+247456,Masako,Bahk,Production,1997-07-31,9999-01-01
+247612,Chiranjit,Constantine,Development,1997-05-25,9999-01-01
+247875,Xiong,Anick,Marketing,1991-04-23,9999-01-01
+247888,Abdelghani,Lagarias,Quality Management,1985-09-06,9999-01-01
+248094,Valeska,Lupu,Sales,1998-09-21,2002-04-06
+248256,Sajjan,Falby,Sales,1996-08-29,9999-01-01
+248351,Jaana,Milicia,Marketing,1985-06-02,9999-01-01
+248758,Snehasis,Muhlberg,Customer Service,1994-12-25,9999-01-01
+248953,Percy,Sudbeck,Production,1996-08-29,9999-01-01
+249239,Hideyuki,Decleir,Development,1994-05-04,9999-01-01
+249325,Ute,Pokrovskii,Sales,1997-06-09,9999-01-01
+249433,Ayonca,Matzov,Production,1988-06-03,9999-01-01
+249451,Gopalakrishnan,Pehl,Development,1995-03-15,2001-06-10
+249504,Dmitry,Velardi,Research,1995-10-20,9999-01-01
+249780,Nechama,Gaughan,Customer Service,1993-07-09,9999-01-01
+249799,Jolita,Neimat,Development,1993-12-27,9999-01-01
+249866,Steen,Gubsky,Sales,1989-01-14,9999-01-01
+249969,Georgi,Luiz,Production,1991-06-10,9999-01-01
+250411,Ranga,Sommen,Sales,1989-01-20,9999-01-01
+250452,Alexius,Plavsic,Development,2000-01-17,9999-01-01
+250748,Kish,Turnbull,Development,1987-02-10,9999-01-01
+251166,Hinrich,Hooghiemstra,Finance,1985-10-05,9999-01-01
+251233,Yucel,Bernini,Production,1993-02-19,9999-01-01
+251301,Pintsang,Impagliazzo,Sales,1989-05-06,9999-01-01
+251341,Divier,Kumaresan,Human Resources,1992-12-05,9999-01-01
+251403,Utpal,DuBourdieux,Development,1997-11-19,9999-01-01
+251437,Shichao,Iwayama,Development,1989-10-17,9999-01-01
+251645,Bezalel,Tsunoo,Sales,1992-06-17,9999-01-01
+251680,Moty,Sommen,Development,1990-08-14,9999-01-01
+251814,Mitsuyuki,Zockler,Production,1998-09-14,9999-01-01
+252185,Chaosheng,Conta,Quality Management,1997-04-14,9999-01-01
+252241,Zito,Alvarado,Human Resources,1986-07-07,2000-09-18
+252316,Gill,Niizuma,Development,1994-10-08,9999-01-01
+252318,Keung,Simmel,Development,1995-11-17,2002-06-24
+252392,Sanjeeva,Peron,Production,1993-12-26,9999-01-01
+252592,Sachem,McDermid,Development,1987-04-30,1987-12-02
+253029,Thodoros,Thimonier,Quality Management,1995-04-05,9999-01-01
+253707,Insup,Hainaut,Sales,1998-02-11,9999-01-01
+253838,Stafford,Terlouw,Production,1999-02-21,9999-01-01
+253893,Huiqun,Trystram,Production,1993-05-10,9999-01-01
+254044,Gunilla,Brendel,Quality Management,1992-04-10,9999-01-01
+254399,Armond,Lores,Production,1999-09-16,9999-01-01
+254591,Mamdouh,Lodder,Sales,1986-03-23,1991-12-09
+254787,Mohan,Chepyzhov,Production,1995-04-06,1996-05-26
+254821,Tonny,Couchot,Sales,1994-12-12,9999-01-01
+254916,Serenella,Couchot,Marketing,2001-01-25,2001-04-13
+255466,Huan,Roccetti,Production,1985-07-03,9999-01-01
+255657,Oldrich,Cyre,Development,1985-02-10,9999-01-01
+255779,Heejo,Merle,Production,1997-09-04,9999-01-01
+256078,Duke,Picaronny,Finance,1995-03-23,1995-04-05
+256216,Halsur,Brodal,Production,1997-11-22,9999-01-01
+256837,Bezalel,Jording,Customer Service,1991-01-16,1998-11-19
+256856,Hongzue,Barbanera,Human Resources,1987-06-17,9999-01-01
+256881,Ioana,Jakobus,Development,1990-08-10,9999-01-01
+256888,Heather,Pehl,Marketing,1993-09-15,9999-01-01
+257062,Stabislas,Pardalos,Development,1989-06-21,9999-01-01
+257378,Pascal,Bernatsky,Marketing,1988-09-03,9999-01-01
+257469,Anyuan,Hanratty,Finance,1988-01-06,9999-01-01
+257484,Shaowei,Nicolson,Human Resources,1986-12-07,9999-01-01
+257624,Adhemar,Dalphin,Human Resources,1990-06-02,2000-08-26
+257799,Sushant,Riefers,Development,1987-12-05,1998-01-08
+258028,Mountaz,Reinhart,Research,2001-07-03,9999-01-01
+258124,Mariusz,Zolotykh,Sales,1990-07-28,9999-01-01
+258363,Tayeb,Veevers,Research,1986-10-10,1991-05-24
+258376,Jaber,Falco,Development,1995-10-01,1995-10-11
+258470,Weiwu,Butner,Sales,1995-02-14,9999-01-01
+258643,Przemyslawa,Esposito,Development,1992-02-27,9999-01-01
+259042,Xiaoqiang,Farrow,Sales,1997-01-01,9999-01-01
+259237,Palash,Gammage,Customer Service,1987-10-23,9999-01-01
+259273,Xiahua,Gomatam,Production,1989-12-01,9999-01-01
+259611,Shuichi,Marrakchi,Sales,1990-08-21,9999-01-01
+259619,Conal,Magliocco,Finance,1992-05-09,9999-01-01
+259718,Stepehn,Bouloucos,Development,1993-12-13,9999-01-01
+260083,Kwok,Journel,Human Resources,1997-12-22,1999-02-27
+260153,Mingdong,Baar,Development,1991-10-14,9999-01-01
+260249,Vugranam,Beausoleil,Customer Service,1998-05-14,9999-01-01
+260361,Reinhold,Rahier,Production,1997-10-09,9999-01-01
+260399,Hatem,Birsak,Finance,1989-04-10,9999-01-01
+260408,Sasan,Brookner,Customer Service,1996-09-03,9999-01-01
+260501,Dzung,Pargas,Development,1990-05-17,9999-01-01
+260545,Fei,Rebaine,Development,1995-05-05,1999-04-19
+261184,Masako,Kornatzky,Production,1987-08-29,9999-01-01
+261631,Jianhua,Huttel,Development,1998-02-23,9999-01-01
+261662,Berni,Assaf,Finance,1989-09-08,9999-01-01
+261737,Mark,Lindqvist,Production,1990-11-22,9999-01-01
+261986,Gila,Ramsak,Development,1997-05-13,9999-01-01
+261990,Volkmar,Czaja,Sales,1992-04-01,9999-01-01
+262154,Wonhee,Vrecion,Production,1986-03-14,1996-08-28
+262208,Mrinalini,Holburn,Sales,1987-05-23,9999-01-01
+262210,Chinho,Bottner,Development,1985-07-29,9999-01-01
+262328,Mayuko,Vural,Sales,1997-12-24,9999-01-01
+262439,Lorien,Lagarias,Marketing,1985-10-10,9999-01-01
+262440,Subbu,Kaiserswerth,Production,1992-06-15,1999-03-08
+262548,Jixiang,Loncour,Development,1994-03-16,2001-02-20
+262636,Tamiya,Reutenauer,Production,1992-04-10,9999-01-01
+262741,Izaskun,Moffat,Customer Service,1987-04-30,2001-08-14
+262752,Pramod,Bierman,Development,1997-12-12,9999-01-01
+262861,Kayoko,Attimonelli,Sales,1992-10-14,1999-01-20
+262928,Piyush,Gill,Quality Management,1995-02-20,9999-01-01
+263012,Hideo,Buchter,Human Resources,1999-05-01,9999-01-01
+263186,Danny,Lowrie,Development,1995-09-13,9999-01-01
+263325,Dinkar,Sinicrope,Customer Service,1985-07-14,1985-12-22
+263370,Shakhar,Ranze,Sales,1999-05-29,9999-01-01
+263439,Atreye,Kabayashi,Development,1986-12-15,9999-01-01
+263645,Mingsen,Lally,Development,1990-12-04,9999-01-01
+263649,Mechthild,Zongker,Sales,1993-07-26,9999-01-01
+263721,Abdulah,Horswill,Production,1999-06-12,2000-11-14
+263926,Fusako,Schwartzbauer,Sales,1985-04-07,9999-01-01
+264001,Khalil,Mapelli,Production,1990-01-15,1992-04-06
+264030,Zdislav,Solares,Production,1990-12-14,9999-01-01
+264167,Baoqiu,Tomescu,Development,1996-05-01,9999-01-01
+264322,Leandro,Swist,Sales,1991-01-06,9999-01-01
+264626,Noritoshi,Bakhtari,Marketing,1993-02-03,9999-01-01
+264715,Siddarth,Luke,Sales,1993-10-06,1994-07-06
+264939,Bogdan,Bahi,Production,1999-02-13,9999-01-01
+265039,Navid,Staudhammer,Finance,1992-10-18,9999-01-01
+265521,Kensei,Salverda,Production,1993-05-25,9999-01-01
+265558,Susuma,Kleiser,Sales,1987-08-02,9999-01-01
+265794,Miquel,Halloran,Sales,1994-01-14,9999-01-01
+265875,Fan,Marsiglia,Production,1989-09-03,9999-01-01
+266206,Zsolt,Anily,Marketing,1985-08-19,9999-01-01
+266249,Sumant,Nishimukai,Sales,1991-03-28,9999-01-01
+266310,Zvonko,Serdy,Research,1987-06-24,9999-01-01
+266644,Anwar,Gubsky,Finance,1993-08-09,9999-01-01
+266689,Parke,Serna,Development,1985-03-29,1999-09-23
+266862,Mart,Plumb,Research,1986-04-21,9999-01-01
+266881,Mokhtar,Sabnani,Marketing,1997-02-04,9999-01-01
+266981,Toshimi,Kragelund,Production,1988-02-21,1994-07-05
+267059,Moie,Tempesti,Customer Service,1991-06-29,9999-01-01
+267227,Susuma,Tagansky,Production,1995-01-22,9999-01-01
+267304,Jordanka,Axelband,Sales,1994-06-27,9999-01-01
+267504,Mayuri,Flowers,Finance,1997-05-12,2000-11-07
+267667,Irena,Kaiserswerth,Sales,1987-09-05,9999-01-01
+267745,Wojceich,Honglei,Development,1991-12-28,2000-05-01
+268043,Narain,Mikschl,Development,1997-11-02,9999-01-01
+268191,LiMin,Teitelbaum,Production,1990-11-01,9999-01-01
+268890,Somnath,Uhrik,Production,1988-01-14,1994-12-09
+269186,Vitali,Dayang,Development,1988-09-21,1992-10-21
+269568,Rimli,Walston,Marketing,1996-01-28,1999-08-10
+269728,Naftali,Kragelund,Marketing,1987-05-16,9999-01-01
+270084,Ulises,Frolund,Marketing,1986-07-26,9999-01-01
+270716,Shunichi,Baer,Sales,1998-02-04,9999-01-01
+270792,Domenico,Wendorf,Production,1990-09-10,1992-12-28
+270794,Dannz,Zhang,Marketing,1991-06-26,9999-01-01
+270821,Hatem,Bierbaum,Marketing,2000-03-26,2000-04-11
+271106,Taisook,Kampfer,Production,1997-11-30,9999-01-01
+271118,Somnath,Nitsche,Production,1987-08-15,1999-10-10
+271219,Odoardo,Tyugu,Production,1994-11-07,9999-01-01
+271975,Yuchang,Busillo,Production,1986-03-30,1989-11-14
+272141,Tsutomu,Neiman,Development,1996-07-31,9999-01-01
+272285,Gully,Mitchem,Customer Service,1986-01-22,9999-01-01
+272316,Surveyors,Muhling,Production,1999-07-19,9999-01-01
+272452,Mitsuyuki,Isard,Research,2002-02-27,9999-01-01
+272599,Holgard,Hegner,Marketing,1993-07-15,9999-01-01
+272860,Minghong,Candan,Production,1994-02-10,9999-01-01
+273159,Divine,Hofmeyr,Development,1989-04-14,9999-01-01
+273274,Yolla,Kobara,Production,1995-12-29,1997-04-16
+273286,Brigham,Asmuth,Development,1989-01-23,9999-01-01
+273396,Wayne,Baba,Development,1998-03-07,9999-01-01
+273806,Hongzhu,Beetstra,Customer Service,1997-08-18,9999-01-01
+273858,Gunilla,Matzen,Sales,1990-12-28,9999-01-01
+274071,Mingsen,Weiland,Human Resources,1995-10-12,9999-01-01
+274271,Prodip,Ritcey,Sales,1986-09-10,9999-01-01
+274369,Ranga,Waymire,Research,1997-01-27,9999-01-01
+274813,Yefim,Pettey,Sales,1993-08-07,9999-01-01
+275158,Satyanarayana,Brandsma,Development,1999-12-08,9999-01-01
+275263,Vojin,Laventhal,Development,1991-10-18,9999-01-01
+275444,Limsoon,Leppanen,Development,1993-01-21,9999-01-01
+275495,Shen,Yamaashi,Sales,1995-02-19,9999-01-01
+275801,Ayakannu,Heinisuo,Sales,1986-06-28,9999-01-01
+275881,Jiann,Munro,Production,1988-05-18,9999-01-01
+275994,Uma,Prampolini,Production,1991-02-21,9999-01-01
+276027,Holgard,Stavenow,Research,1986-02-28,9999-01-01
+276184,Mari,Swick,Sales,1991-04-08,9999-01-01
+276186,Sajjad,Vecchi,Human Resources,1993-06-02,9999-01-01
+276189,Isaac,Klerer,Human Resources,1995-03-19,9999-01-01
+276445,Atilio,Randi,Production,1988-07-02,9999-01-01
+276472,Hideyuki,Flanders,Development,1988-11-10,9999-01-01
+276563,Gift,Solares,Customer Service,1995-08-01,9999-01-01
+276868,Alois,Sanella,Marketing,1998-03-13,9999-01-01
+276922,Yongmin,Sidje,Research,2001-10-31,2002-02-20
+277316,Vitali,Rothenberg,Sales,1989-10-04,9999-01-01
+277362,Uzi,Kugler,Customer Service,1991-01-12,9999-01-01
+277420,Rayond,Schach,Production,1995-04-22,9999-01-01
+277777,Herbert,Itzigehl,Development,1990-07-04,9999-01-01
+277829,Michaela,Fandrianto,Development,1986-06-02,9999-01-01
+277926,Shaunak,Solovay,Sales,1992-12-26,1994-01-13
+278239,Boaz,Bottner,Research,1994-02-06,9999-01-01
+278386,Caolyn,Poujol,Quality Management,1995-12-03,9999-01-01
+278452,Sudhanshu,Toyoshima,Human Resources,1987-08-29,9999-01-01
+278484,Koldo,Peternell,Research,1992-11-05,1993-04-06
+278536,Munenori,Shobatake,Marketing,1992-01-10,9999-01-01
+278549,Jaana,Werthner,Sales,1989-07-27,9999-01-01
+278883,Hidefumi,Saoudi,Production,1990-09-15,1996-05-18
+278953,Jeanna,Ghandeharizadeh,Development,1990-08-11,9999-01-01
+279115,Maren,DuCasse,Development,1997-11-29,9999-01-01
+279280,Niranjan,Debuse,Production,1992-09-21,9999-01-01
+279384,Hugo,Comte,Research,1992-06-30,1993-12-05
+279791,Chiranjit,Lyonns,Development,1986-12-24,9999-01-01
+280029,Vasilii,Verhaegen,Sales,1991-03-25,1991-04-24
+280070,Niteen,Ebeling,Human Resources,1988-03-29,9999-01-01
+280291,Lenore,Badache,Customer Service,1998-11-24,9999-01-01
+280411,Hironoby,Farrar,Production,1987-11-03,1996-11-12
+280420,Jahangir,Hofting,Sales,1986-09-28,9999-01-01
+280525,Kish,Herbst,Sales,1996-08-18,9999-01-01
+280648,Heeju,Lorys,Production,1986-12-27,9999-01-01
+280836,Ipke,Farrar,Production,1991-03-04,1999-12-03
+281180,Phillip,Fontet,Customer Service,1991-09-03,1998-02-07
+281570,Zijian,Covnot,Development,1994-09-13,9999-01-01
+281692,Khosrow,Sommen,Quality Management,1990-03-03,9999-01-01
+281834,Fumitake,Marchegay,Production,1991-09-29,1997-06-12
+281848,Parke,Staylopatis,Development,1993-07-31,9999-01-01
+281859,Masanao,Papastamatiou,Production,1985-11-25,9999-01-01
+282000,Hideo,Ratnakar,Quality Management,1985-06-13,1998-03-20
+282191,Alper,Shinomoto,Development,1997-10-20,9999-01-01
+282333,Nahla,Serdy,Research,1993-09-09,9999-01-01
+282343,Xinglin,Haldar,Sales,1988-07-20,9999-01-01
+282547,Nahum,Codenie,Development,1999-06-14,9999-01-01
+282585,Zijian,Lammel,Customer Service,1996-07-01,9999-01-01
+282699,Candida,Felcyn,Development,1986-08-04,2002-05-25
+282862,Chenxi,Pusterhofer,Finance,1996-06-02,2000-07-12
+282894,Fay,Bellmore,Development,1989-05-03,9999-01-01
+283041,Nathalie,Foote,Quality Management,1991-07-20,1992-06-20
+283138,Cullen,Mikschl,Human Resources,1990-01-16,1990-03-11
+283168,Sanjai,Kopetz,Quality Management,1999-05-21,2000-06-07
+284045,Fun,Seiwald,Development,1994-06-24,2000-02-15
+284300,Ishfaq,Mahmud,Marketing,1991-11-29,9999-01-01
+284431,Pintsang,Fujisawa,Sales,1996-04-16,9999-01-01
+284561,Duri,Beznosov,Quality Management,1988-02-15,9999-01-01
+284687,Oksana,Redmiles,Development,1985-06-22,9999-01-01
+284691,Theron,Ressouche,Development,1988-08-17,9999-01-01
+284711,Martijn,Azevdeo,Development,1988-02-10,9999-01-01
+284717,Gal,Ranta,Development,1992-11-07,9999-01-01
+284856,Moto,Kobara,Quality Management,1991-12-12,9999-01-01
+284954,Anneke,Hammerschmidt,Quality Management,1996-01-30,9999-01-01
+285149,Nahum,Schahn,Quality Management,1998-02-17,2000-03-15
+285164,Xiaocheng,Kumaresan,Sales,1994-10-03,9999-01-01
+285318,Theron,Ravishankar,Development,1991-12-27,1999-10-09
+285396,Lena,Kohling,Development,1986-10-04,9999-01-01
+285905,Kellyn,Bage,Research,1994-11-04,9999-01-01
+285906,Arnould,Buescher,Development,1998-03-26,9999-01-01
+286026,Utpal,Zaumen,Sales,1991-02-25,9999-01-01
+286029,Jaques,Nanard,Customer Service,1996-07-16,9999-01-01
+286370,Toshimitsu,Seuren,Human Resources,1995-01-19,9999-01-01
+286452,Behnaam,Bierbaum,Development,1999-01-31,9999-01-01
+286573,Nahum,Nishimukai,Production,1994-07-29,9999-01-01
+286779,Sigeru,Versino,Production,1998-08-31,9999-01-01
+286986,Woody,Trelles,Development,1996-05-23,9999-01-01
+287323,Steve,Dengi,Sales,1999-09-15,9999-01-01
+287327,Youjian,Felder,Human Resources,1993-07-15,9999-01-01
+287334,Elliott,Speer,Production,1998-08-08,9999-01-01
+287436,Sasan,Deville,Quality Management,1994-10-11,2001-04-25
+287482,Shigeaki,Gihr,Quality Management,1994-03-18,9999-01-01
+287583,Jovan,Hockney,Production,1990-06-21,9999-01-01
+287609,Sailaja,Negoita,Development,1988-01-20,9999-01-01
+287713,Aamod,Ranka,Finance,1992-12-07,9999-01-01
+287808,Vidar,Ozeki,Development,1996-06-17,9999-01-01
+287822,Mooi,Perfilyeva,Production,1999-01-04,2000-09-04
+287983,Randi,Munos,Marketing,1990-09-07,9999-01-01
+287984,Troy,Kobuchi,Development,1991-02-12,9999-01-01
+288028,Kauko,Narwekar,Development,1985-12-16,9999-01-01
+288134,IEEE,VanScheik,Human Resources,1992-02-11,1993-11-20
+288142,Shay,Heystek,Sales,1989-04-01,9999-01-01
+288166,Masoud,Asmuth,Human Resources,1994-09-05,9999-01-01
+288560,Yifei,Birjandi,Marketing,1994-02-07,9999-01-01
+288563,Cristinel,Gerlach,Production,1996-01-09,9999-01-01
+288606,Susumu,Swiss,Sales,1991-11-15,9999-01-01
+288665,Horward,Khasidashvili,Development,1998-11-19,9999-01-01
+288848,Vivian,Hennebert,Sales,1991-04-10,1994-06-11
+288893,Bedrich,Rosenbaum,Development,1991-01-27,9999-01-01
+289122,Nikolaus,Akaboshi,Customer Service,1990-09-20,1995-07-04
+289454,Bowen,Narwekar,Development,1985-03-08,9999-01-01
+289687,Fai,Maccarone,Research,1985-10-30,9999-01-01
+289807,Soenke,Lemarechal,Customer Service,1994-09-04,9999-01-01
+289909,Hilari,Vecchio,Sales,1993-04-24,9999-01-01
+290009,Zijian,Rindone,Human Resources,1989-07-09,9999-01-01
+290010,Fox,Lodder,Sales,1988-02-17,1994-01-29
+290075,Boalin,Byoun,Human Resources,1990-10-01,9999-01-01
+290284,Kwangjo,Menhardt,Development,1996-01-11,9999-01-01
+290441,Gregory,Collavizza,Sales,1987-09-09,9999-01-01
+290467,Shaowen,Poulakidas,Research,1987-04-15,9999-01-01
+290478,Tsvetan,Sherertz,Quality Management,1989-08-07,9999-01-01
+290563,Shigehiro,Oxenboll,Production,1986-02-26,9999-01-01
+290769,Lalit,Blokdijk,Development,1999-02-01,9999-01-01
+291349,Constantijn,Rusterholz,Customer Service,1998-08-28,1998-11-13
+291352,Danai,Trelles,Research,1997-08-26,9999-01-01
+291368,Gita,Rodier,Sales,1990-08-24,1994-04-27
+291612,Siamak,Gomatam,Development,1998-07-08,9999-01-01
+291669,Faiza,Bach,Development,1999-09-13,9999-01-01
+291755,Ebru,Doering,Production,1994-08-27,2001-04-06
+291819,Uriel,Georg,Customer Service,1991-06-08,1999-06-22
+292110,Menkae,Showalter,Development,1996-08-09,9999-01-01
+292146,Khatoun,Pulkowski,Development,2002-01-09,9999-01-01
+292210,Masaru,Huhdanpaa,Development,1996-11-23,9999-01-01
+292374,Shridhar,Chvatal,Development,1990-05-09,1995-08-27
+292404,Hongzue,Zultner,Research,1990-02-22,9999-01-01
+292504,Georgi,Bednarek,Quality Management,1994-03-02,9999-01-01
+292515,Bernd,Thummel,Development,1989-08-03,9999-01-01
+292828,Ziya,Tokunaga,Production,1986-01-08,9999-01-01
+292901,Shuky,Journel,Development,1985-02-14,1995-04-27
+293080,Hideyuki,Slaats,Human Resources,1987-05-30,9999-01-01
+293154,Syozo,Maliniak,Marketing,1993-06-06,9999-01-01
+293280,Moti,Steenbeek,Development,1987-01-22,9999-01-01
+293329,Fumiya,Griswold,Development,1986-06-12,9999-01-01
+293746,Sanjay,Litecky,Development,1995-08-27,9999-01-01
+293752,Jungsoon,Bail,Sales,1986-02-18,9999-01-01
+294144,Takanari,Ermel,Sales,1992-01-11,9999-01-01
+294241,Marl,Fiebach,Finance,1994-07-26,9999-01-01
+294446,Claudi,Ruemmler,Finance,1999-08-13,9999-01-01
+294461,Siddarth,Rosiles,Development,1985-11-18,9999-01-01
+294527,Ashish,Candan,Marketing,1992-02-02,9999-01-01
+294652,Hironobu,Brodie,Research,1998-12-21,9999-01-01
+294791,Vesna,Lammel,Development,1999-10-08,9999-01-01
+294857,Caolyn,Ozeri,Development,1986-07-29,9999-01-01
+294996,Tomoyuki,Vigier,Sales,1991-07-08,2000-03-08
+295030,Fun,Keirsey,Customer Service,1985-07-09,9999-01-01
+295236,Kauko,Fujisawa,Development,1987-09-13,9999-01-01
+295254,Xuejun,Pfau,Human Resources,1985-07-24,9999-01-01
+295255,Jacopo,Bellone,Production,1988-03-13,9999-01-01
+295262,Moon,Pews,Production,1994-08-06,9999-01-01
+295268,Eben,Calkin,Human Resources,1996-12-19,9999-01-01
+295278,Val,Barvinok,Development,1990-01-02,9999-01-01
+295411,Chiranjit,Serot,Sales,1997-04-04,9999-01-01
+295476,Shawna,Chiodo,Development,1999-01-22,1999-04-05
+295857,Kankanahalli,Ciolek,Human Resources,1989-12-26,9999-01-01
+296062,Shaz,Driscoll,Research,1998-10-03,9999-01-01
+296303,Mariangiola,Heyers,Development,1992-08-04,9999-01-01
+296428,Charmane,Simmen,Sales,1989-03-07,9999-01-01
+296610,Pranav,Berztiss,Production,1990-10-06,1996-09-09
+296621,Bokyung,Plump,Production,1986-07-05,1989-04-27
+296664,Dipayan,Geffroy,Production,1987-09-17,9999-01-01
+296687,Palash,Spieker,Research,1991-05-11,9999-01-01
+296718,Kamakshi,Bahl,Production,1987-12-22,9999-01-01
+296962,Wilmer,Luke,Production,1987-02-13,1999-02-15
+297008,Boutros,Awdeh,Finance,1985-11-07,1988-07-11
+297232,Lokesh,Saoudi,Sales,1999-05-25,9999-01-01
+297243,Tesuya,Mansanne,Customer Service,1993-10-08,1997-06-01
+297431,Cathie,Ratnakar,Marketing,1996-06-23,9999-01-01
+297474,Irena,Terkki,Research,1998-03-11,9999-01-01
+297804,Vasilis,Ginneken,Quality Management,1985-09-13,1990-04-08
+297905,Marc,Bahl,Development,1997-06-18,9999-01-01
+297954,Sailaja,Fujisaki,Production,1995-07-24,9999-01-01
+298339,King,Benzmuller,Development,1986-09-04,9999-01-01
+298479,Kamakshi,Badache,Marketing,1996-06-11,1999-03-11
+298577,Florina,Litecky,Finance,1985-12-02,9999-01-01
+298953,Zita,Syang,Finance,1998-12-29,9999-01-01
+299346,Fumitake,Sichman,Human Resources,1991-02-21,9999-01-01
+299580,Luisa,Itzfeldt,Quality Management,1997-01-23,9999-01-01
+299718,Denny,Shobatake,Research,1997-06-22,9999-01-01
+299737,Patricio,Itzfeldt,Sales,1985-05-21,9999-01-01
+400046,Hilari,Christ,Development,1996-10-07,9999-01-01
+400344,Yishai,Sessa,Development,1996-08-21,2000-09-30
+400358,Angus,Jullig,Development,1989-04-13,9999-01-01
+400683,Kamakshi,Manders,Sales,1995-08-05,9999-01-01
+400780,Poornachandra,Asser,Development,1993-11-07,9999-01-01
+400796,Bodo,Halevi,Development,1996-05-30,9999-01-01
+401154,Danae,Kragelund,Human Resources,1987-05-20,9999-01-01
+401278,Oguz,Schurmann,Production,1986-11-11,9999-01-01
+401333,Martins,Shokrollahi,Production,1986-11-04,9999-01-01
+401364,Pranay,Kambil,Research,1999-07-30,2002-04-06
+401420,Florian,Uhrig,Customer Service,1987-01-31,9999-01-01
+401574,Yannik,Falco,Production,1988-01-15,9999-01-01
+402025,Shigehito,Duclos,Quality Management,1987-09-20,9999-01-01
+402102,Kersti,Granlund,Development,1995-03-19,9999-01-01
+402223,Fai,Breugel,Sales,1995-02-27,1999-10-08
+402664,Subhada,Janetzko,Production,1987-01-25,9999-01-01
+402718,Jeanna,Rettelbach,Development,1990-02-14,9999-01-01
+402827,Weidon,Pollacia,Human Resources,2002-03-24,9999-01-01
+403010,Toshimitsu,Sluis,Development,1985-02-18,9999-01-01
+403237,Muneo,Gunderson,Development,1985-12-08,1993-09-19
+403455,Marko,Velardi,Development,1992-11-22,2001-08-27
+403621,Deborah,Kaminger,Marketing,1988-06-04,9999-01-01
+403644,Krisda,Hainaut,Human Resources,1995-07-08,9999-01-01
+403954,Jeanna,Bratten,Development,1990-07-26,9999-01-01
+404018,Valery,Babb,Development,1998-10-19,9999-01-01
+404236,Zengping,Kakkar,Development,1988-07-22,9999-01-01
+404462,Anestis,Setlzner,Development,1985-07-13,9999-01-01
+404573,Eberhardt,Spelt,Human Resources,1997-07-05,9999-01-01
+404755,Manu,Junet,Marketing,1991-04-20,9999-01-01
+404788,Basem,Beausoleil,Development,1998-03-16,9999-01-01
+404879,Jeanne,Kaminger,Production,1987-07-21,1991-04-21
+405015,Morris,Fargier,Sales,1988-06-29,9999-01-01
+405063,Yechezkel,Yurov,Production,2001-11-16,9999-01-01
+405372,Masami,Merro,Research,1988-09-23,1999-08-31
+406125,Georgi,Portugali,Production,1987-09-27,9999-01-01
+406239,Marek,Tomescu,Development,1995-05-15,9999-01-01
+406249,Naraig,Snyers,Production,1986-12-03,1992-05-19
+406299,Kitty,Kolvik,Development,1991-10-07,1995-04-29
+406537,Martien,Ranum,Development,1993-03-15,1999-05-18
+406564,Parviz,Picco,Development,1995-04-16,9999-01-01
+406714,Malu,Ossenbruggen,Research,1986-11-21,9999-01-01
+406847,Alexius,Crouzet,Sales,1999-10-05,9999-01-01
+407522,Tommaso,Raczkowsky,Finance,1996-08-29,9999-01-01
+407837,Fei,Erez,Quality Management,1988-04-02,9999-01-01
+408019,Shridhar,Chleq,Production,1986-03-22,9999-01-01
+408114,Geoffrey,Ladret,Development,1994-01-03,9999-01-01
+408163,Irene,Sethi,Development,2000-08-12,9999-01-01
+408417,Tsz,Daescu,Sales,1994-09-28,9999-01-01
+408435,Bikash,Vilarrasa,Sales,1999-03-26,2000-12-29
+408437,Uno,Solares,Customer Service,1994-09-22,9999-01-01
+408447,Mayuri,Werthner,Sales,2001-02-20,9999-01-01
+408654,Yongqiao,Cochrane,Customer Service,1986-10-27,9999-01-01
+408953,Jolita,Claffy,Development,1993-12-24,9999-01-01
+409112,Sahrah,Mitchem,Finance,1991-03-28,2002-05-18
+409391,Willard,Verspoor,Production,1999-02-28,9999-01-01
+409712,Etsuo,Andreotta,Quality Management,1992-03-28,2000-06-23
+409798,Dekang,Tsunoo,Production,1995-01-19,9999-01-01
+409805,Frazer,Candan,Quality Management,1999-03-05,9999-01-01
+409898,Divier,Ishibashi,Development,1989-09-22,9999-01-01
+410028,Xiadong,McClurg,Human Resources,1985-09-17,9999-01-01
+410372,Duri,Mitina,Development,1990-03-04,9999-01-01
+410433,Kazuhisa,Riesenhuber,Production,1992-10-06,9999-01-01
+410592,Tonia,Shigei,Human Resources,1993-03-13,1997-01-12
+410616,Gudjon,Kalorkoti,Development,1994-04-14,9999-01-01
+410703,Kitty,Halloran,Sales,1997-11-20,2002-01-18
+410804,Ronnie,Denos,Production,1992-06-08,9999-01-01
+410881,Koichi,Grabner,Quality Management,2000-04-05,9999-01-01
+411070,Otmar,Brandsma,Development,1987-05-28,9999-01-01
+411082,Martine,Cangellaris,Production,1992-04-28,9999-01-01
+411143,Goncalo,Barbanera,Marketing,1996-09-01,9999-01-01
+411727,Weiwu,Lamma,Sales,1997-11-05,2000-11-26
+411906,Anneli,Pappas,Development,1998-07-04,1998-09-19
+412315,Geoff,Peck,Sales,1999-01-08,1999-03-26
+412404,Mitsuyuki,Jeansoulin,Production,1999-10-28,9999-01-01
+412757,Leen,Peak,Development,1999-11-20,9999-01-01
+413098,Hsiangchu,Taubenfeld,Research,1993-04-17,9999-01-01
+413205,Mototsugu,Prampolini,Sales,1988-06-12,9999-01-01
+413554,Elvia,Schwartzburd,Quality Management,1991-10-16,1995-08-25
+413666,Remco,Duclos,Finance,1988-04-18,9999-01-01
+413729,Harjit,Ernst,Development,1992-04-26,9999-01-01
+413831,Mohamadou,Grabner,Customer Service,1991-11-25,9999-01-01
+413832,Marco,Jahnichen,Human Resources,1995-03-28,9999-01-01
+414027,Tadanori,Msuda,Customer Service,1993-02-20,9999-01-01
+414091,Wuxu,Kuhnemann,Development,1997-08-19,9999-01-01
+414461,Somnath,Bierbaum,Marketing,1996-12-05,2000-12-22
+414543,Bernd,Anick,Production,1988-11-19,9999-01-01
+414551,Elliott,Copas,Development,1994-09-13,9999-01-01
+414662,Ipke,Schneeberger,Development,1985-09-20,9999-01-01
+414714,Chinho,Delgrande,Research,1996-11-07,9999-01-01
+414808,Aris,Sambasivam,Development,1988-02-21,1998-05-20
+414814,Dayanand,Wielonsky,Development,1999-02-28,9999-01-01
+414897,Juyoung,Willoner,Sales,1989-11-03,9999-01-01
+414922,Prasadram,Piazza,Production,1987-06-05,1997-11-04
+415187,Juyoung,Peltason,Production,1998-09-01,9999-01-01
+415234,Ewing,Baak,Development,1993-10-05,1993-10-19
+415338,Shigeo,Emmart,Production,1995-12-24,9999-01-01
+415363,Conal,Shackell,Marketing,1995-02-23,9999-01-01
+415563,Mrinalini,Bierbaum,Development,1986-03-12,9999-01-01
+416074,Alain,Lieberherr,Development,1987-05-11,9999-01-01
+416383,Nectarios,Itschner,Development,1990-03-02,9999-01-01
+416420,Adamantios,Heemskerk,Sales,1986-08-08,9999-01-01
+416455,Laurentiu,Morton,Production,1998-12-21,1999-12-23
+416492,Kannan,Meriste,Development,1992-08-12,9999-01-01
+416660,Nathalie,Luke,Development,1987-09-16,9999-01-01
+416720,Tokuyasu,Xiaoshan,Production,1991-09-19,9999-01-01
+416877,Gio,Orsini,Marketing,1988-12-07,9999-01-01
+416892,Shooichi,Vandervoorde,Production,1996-08-16,9999-01-01
+417128,Valeska,Rosenbaum,Development,1994-05-18,1997-01-13
+417435,Bouchung,Zaumen,Sales,1999-01-29,9999-01-01
+418239,Josyula,Motley,Production,1996-03-26,9999-01-01
+418247,Oscar,Oppitz,Marketing,2002-07-27,9999-01-01
+418298,Arvin,Pusterhofer,Production,1995-03-02,9999-01-01
+418309,Danel,Petereit,Production,1985-02-21,9999-01-01
+418380,Kazuhiko,Gornas,Production,1993-05-20,9999-01-01
+418566,Kazuhide,Snedden,Production,1996-06-14,9999-01-01
+418606,Michaela,Otillio,Production,1994-01-05,9999-01-01
+418689,Gino,Uehara,Marketing,1988-02-17,1991-04-09
+418717,Arunachalam,Magliocco,Sales,1987-12-23,9999-01-01
+418860,Ymte,Dalton,Marketing,1992-11-22,9999-01-01
+419099,Heon,Broomell,Sales,1998-05-06,9999-01-01
+419388,Nikolaos,Bamford,Development,1986-02-25,1997-09-23
+419953,Ung,Orlowski,Marketing,1991-07-22,9999-01-01
+420086,Susuma,Kitsuregawa,Development,1985-05-28,9999-01-01
+420476,Mariangiola,Bolsens,Customer Service,1985-06-15,9999-01-01
+420557,Mabhin,Eastman,Sales,1989-08-02,9999-01-01
+420599,Hidde,Riexinger,Quality Management,1986-11-18,1996-08-20
+420681,Atilio,Rajala,Development,1999-12-01,2001-07-27
+420694,Frazer,Barbanera,Research,1986-11-04,9999-01-01
+420732,Willard,Morrin,Marketing,1996-05-27,9999-01-01
+420759,Raimond,Solovay,Sales,1997-10-03,9999-01-01
+420765,Shawna,Krider,Sales,1990-03-09,9999-01-01
+420877,Khosrow,Erez,Finance,1990-02-11,9999-01-01
+420921,Niranjan,Lamba,Sales,1997-11-16,1998-10-10
+421022,Shigeaki,Butner,Sales,1996-07-13,9999-01-01
+421033,Garnik,Randt,Sales,1989-12-23,9999-01-01
+421039,Aemilian,Zedlitz,Development,1988-12-23,1993-07-16
+421074,Zhaofang,Falster,Sales,1994-06-29,9999-01-01
+421312,Mariangiola,Bashian,Development,1999-09-18,9999-01-01
+421384,Renny,Bednarek,Human Resources,1987-06-01,9999-01-01
+421755,Shichao,Thiria,Production,1989-01-11,9999-01-01
+422146,Kenton,Miara,Research,2002-03-13,9999-01-01
+422263,Abdulah,Remmele,Finance,1992-09-24,1996-07-21
+422450,Junichi,Rubsam,Development,1988-10-30,1994-03-11
+422783,Jagoda,Uhrig,Production,1995-09-01,9999-01-01
+423038,Takushi,Strehl,Sales,1988-10-04,9999-01-01
+423204,Uma,Stranks,Sales,1991-09-13,9999-01-01
+423208,Joydip,Krone,Development,1995-02-08,9999-01-01
+423214,Tsutomu,Tetzlaff,Finance,1987-09-24,9999-01-01
+423327,Constantijn,Lichtman,Sales,1994-06-26,9999-01-01
+423350,Heping,Monarch,Sales,1988-04-15,9999-01-01
+423516,Wojceich,Butterworth,Development,1999-11-16,2001-10-05
+423633,Mariusz,Tokunaga,Development,1985-02-11,9999-01-01
+423993,Seshu,Kolvik,Development,1988-12-09,9999-01-01
+424569,Danco,Luff,Development,1997-10-30,9999-01-01
+424584,Kagan,Dredge,Development,1994-02-26,9999-01-01
+424685,Changho,Veevers,Finance,1997-03-03,9999-01-01
+424714,Nathan,Vendrig,Development,1990-08-20,1997-03-22
+424797,Theron,Itschner,Sales,1985-05-16,9999-01-01
+424805,Jacqueline,Zallocco,Sales,1987-12-17,9999-01-01
+424845,Salvador,Peres,Production,1996-02-05,1996-11-17
+424930,Xuejun,Reeker,Human Resources,1988-11-18,9999-01-01
+424984,Vasilis,Waleschkowski,Development,1996-05-26,9999-01-01
+425437,Moni,Staudhammer,Development,1999-03-23,9999-01-01
+425535,Alagu,Vieri,Marketing,1986-08-23,9999-01-01
+425540,Paddy,Zumaque,Finance,1995-11-12,9999-01-01
+425757,Yongdong,Jiang,Production,1995-01-31,9999-01-01
+425780,Paris,Range,Sales,1989-10-25,9999-01-01
+425830,Guther,Conia,Development,1999-02-13,9999-01-01
+425875,Jahangir,Kroft,Sales,1990-06-11,9999-01-01
+426153,Shahaf,Luce,Sales,1999-04-06,9999-01-01
+426168,Kaijung,Mateescu,Finance,1987-11-18,9999-01-01
+426228,Supot,Badache,Development,1996-08-17,9999-01-01
+426235,Danco,Rajala,Human Resources,1991-03-29,9999-01-01
+426611,Serap,Bahi,Development,1986-05-15,1990-05-04
+426644,Zejun,Broomell,Production,1995-01-19,9999-01-01
+426683,Xudong,Muntz,Production,1991-03-08,1996-04-02
+426706,Karsten,Kawashima,Production,1994-03-15,9999-01-01
+426795,Huican,Lunn,Customer Service,1986-07-23,9999-01-01
+426818,Gaurav,Fendler,Customer Service,1992-02-15,9999-01-01
+426819,Sandeepan,Kulisch,Production,1997-05-16,9999-01-01
+426824,Gopalakrishnan,Mawatari,Customer Service,1997-12-07,9999-01-01
+426958,Weijing,Viele,Production,1985-10-03,9999-01-01
+427313,Utpal,Kemmerer,Research,1986-12-04,9999-01-01
+427320,Mamdouh,Ramamoorthy,Development,2000-01-13,9999-01-01
+427332,Feiyu,Hemaspaandra,Customer Service,1995-06-04,9999-01-01
+427571,Torsten,Ranta,Research,1995-07-03,9999-01-01
+427659,Mariusz,Ritcey,Production,1987-03-16,1991-07-01
+427776,Jaques,Navazio,Finance,1989-04-04,9999-01-01
+427805,Haldun,Compeau,Finance,1997-10-15,9999-01-01
+427823,Jaques,Gecsei,Customer Service,1999-07-13,9999-01-01
+427852,Adil,Kieras,Production,1992-07-20,9999-01-01
+428082,Ronghao,Alpin,Human Resources,1991-09-11,9999-01-01
+428160,Jamaludin,Kalorkoti,Marketing,1998-09-06,9999-01-01
+428195,Hatsukazu,Rosca,Human Resources,1993-08-02,9999-01-01
+428219,Ghassan,Androutsos,Sales,1987-12-26,9999-01-01
+428235,Chenyi,Demian,Production,1991-08-29,2000-03-18
+428294,Nimmagadda,Kusakari,Production,1994-01-23,1998-05-14
+428917,Theron,Billawala,Development,1989-02-17,9999-01-01
+429040,Bader,Detkin,Finance,1993-10-24,1999-07-31
+429087,Hugh,Senzako,Quality Management,1992-10-15,9999-01-01
+429231,Kazuyasu,Schmiedel,Sales,1985-09-07,9999-01-01
+429238,Mona,Luck,Sales,1989-05-11,9999-01-01
+429249,Alassane,Wolniewicz,Research,1993-11-09,9999-01-01
+429316,Seshu,Hiraishi,Finance,1994-08-10,9999-01-01
+429381,Limsoon,Roohalamini,Sales,1986-11-26,9999-01-01
+429419,Adas,Chinen,Research,1993-01-04,2002-05-15
+429481,Subhada,Emmerich,Development,1996-03-06,9999-01-01
+429520,Yongqiao,Francisci,Quality Management,1999-12-01,9999-01-01
+429532,Bartek,Vendrig,Customer Service,1992-06-06,9999-01-01
+429553,Tadanori,Fujisawa,Development,1999-08-07,2000-07-04
+429569,Fumiya,Chappelet,Development,1992-09-03,9999-01-01
+429703,Ung,Honglei,Human Resources,1986-09-02,9999-01-01
+429756,Jiann,Hofmeyr,Finance,1992-02-03,1997-10-23
+429899,Ranan,Marsiglia,Marketing,1999-08-13,9999-01-01
+429954,Renny,Gladwell,Sales,1999-02-27,9999-01-01
+430054,Erzsebet,Setiz,Development,1993-06-10,9999-01-01
+430558,Xiong,Roisin,Quality Management,1988-03-01,9999-01-01
+430593,Janalee,Lanzelotte,Customer Service,1997-12-01,9999-01-01
+430631,Kersti,Marsiglia,Development,1994-02-19,9999-01-01
+430891,Khalil,Gien,Production,1991-08-06,9999-01-01
+430981,Amabile,Koyama,Customer Service,1985-07-25,1993-05-14
+431353,Bedir,Reeken,Sales,1991-02-17,1998-10-25
+431576,Masamitsu,Back,Human Resources,1993-04-12,9999-01-01
+431657,Visit,Thiran,Development,1986-11-14,9999-01-01
+431759,Alassane,Ramsay,Production,1987-11-21,1989-04-12
+431882,Hideo,Varman,Development,1997-06-19,9999-01-01
+431887,Poorav,Ranst,Development,1996-06-01,9999-01-01
+432031,Adamantios,Matzat,Sales,1987-03-01,9999-01-01
+432034,Arfst,Uehara,Marketing,1994-07-10,9999-01-01
+432089,Irena,Gulla,Quality Management,1989-12-30,2002-01-11
+432121,Alair,Straney,Customer Service,1986-11-15,9999-01-01
+432257,Kwangjo,Hiltgen,Production,1998-12-22,9999-01-01
+432261,Arve,Bergere,Development,1987-07-28,9999-01-01
+432399,Nitsan,Nollmann,Customer Service,1993-09-29,9999-01-01
+432523,Takahiro,Maquelin,Development,1997-07-21,9999-01-01
+432665,Flemming,Driscoll,Development,1994-05-28,9999-01-01
+432787,Toshiko,Ibel,Development,1996-11-23,9999-01-01
+432890,Nalini,Perly,Production,1999-03-07,2001-01-15
+432956,Qunsheng,Birrer,Marketing,1986-05-13,9999-01-01
+433059,Bojan,Montresor,Sales,1995-02-04,9999-01-01
+433157,Tomofumi,Serna,Sales,1999-10-23,9999-01-01
+433260,Make,Olivero,Quality Management,1991-06-01,9999-01-01
+433438,Keiichiro,Miyakawa,Research,1993-09-12,9999-01-01
+433465,Wonhee,Benveniste,Human Resources,1985-12-21,1987-03-23
+433640,Monique,Baer,Finance,1987-12-12,1996-02-13
+434384,Greger,Babb,Sales,1998-06-13,2002-01-18
+434845,Takushi,Skogmar,Sales,1985-06-07,9999-01-01
+434936,Sahrah,Rosis,Development,1994-06-24,9999-01-01
+435026,Shim,Versino,Quality Management,1996-12-17,1997-11-20
+435042,Brigham,Borstler,Sales,1995-10-09,9999-01-01
+435060,Moie,Lieblein,Sales,1996-07-12,9999-01-01
+435181,Kazuhide,Fiutem,Marketing,1992-05-10,9999-01-01
+435226,Yinghua,Panwar,Human Resources,1994-06-11,1996-02-26
+435289,Feixiong,Schurmann,Marketing,1987-02-15,9999-01-01
+435305,Berthier,Pramanik,Sales,1993-01-23,9999-01-01
+435357,Jaques,Standera,Development,1997-10-02,1998-03-11
+435370,Conal,Basart,Sales,1991-05-17,9999-01-01
+435588,Genta,Pepe,Human Resources,1994-04-12,9999-01-01
+435602,Dietrich,Kranzdorf,Sales,1992-10-04,9999-01-01
+435664,Sham,Chiodo,Production,1997-07-28,2000-06-16
+435774,Olivera,Bharadwaj,Sales,1992-04-01,9999-01-01
+435791,Hercules,Speer,Quality Management,1994-03-07,9999-01-01
+436558,Subir,Greibach,Development,1992-05-24,9999-01-01
+436797,Ohad,Henders,Finance,1990-11-03,9999-01-01
+436827,Wojceich,Limongiello,Human Resources,1988-03-10,9999-01-01
+436915,Feixiong,Haraldson,Research,1998-10-11,9999-01-01
+437276,Dines,DeMori,Finance,1987-12-07,9999-01-01
+437369,Kazuhide,Biran,Sales,1995-01-25,9999-01-01
+437395,Sumant,Thambidurai,Marketing,1996-08-24,9999-01-01
+437724,Erez,Luft,Human Resources,1994-12-14,9999-01-01
+437870,Kerhong,Lorho,Development,2001-03-17,9999-01-01
+438038,Lena,Giaccio,Marketing,2001-10-03,9999-01-01
+438158,Shaw,Varman,Development,1994-12-16,1999-05-13
+438264,Rasikan,Barreiro,Customer Service,1991-09-27,9999-01-01
+438557,Lidong,Swist,Development,1999-09-16,9999-01-01
+438723,Charlene,Verspoor,Quality Management,1992-03-16,2001-11-13
+439377,Mari,Plessier,Development,1997-07-04,9999-01-01
+439905,Kousuke,Levasseur,Customer Service,1990-03-16,9999-01-01
+439924,Gunilla,Kisuki,Finance,1994-08-14,9999-01-01
+440325,Douadi,Sullins,Sales,1999-09-25,9999-01-01
+440435,Sandeepan,Rosti,Development,1991-11-26,9999-01-01
+440450,Tzvetan,Scharstein,Human Resources,1994-06-16,9999-01-01
+440642,Snehasis,Kalsbeek,Sales,1988-01-06,9999-01-01
+440870,Filipp,Hasham,Customer Service,1996-10-14,9999-01-01
+440937,Fabrizio,Usery,Research,1992-10-13,9999-01-01
+440997,Manton,Schapiro,Sales,1991-03-26,2001-01-31
+441197,Miquel,Legleitner,Sales,1985-06-28,9999-01-01
+441536,Chinho,Collette,Production,1995-10-09,9999-01-01
+441651,Aimee,Billawala,Development,1989-02-20,1995-08-24
+441954,Leszek,Marchegay,Production,1999-06-13,9999-01-01
+441965,Claudi,Heijenga,Research,1988-08-30,9999-01-01
+442002,Ravishankar,Baig,Sales,1992-03-17,9999-01-01
+442096,Martijn,DiGiano,Production,1990-06-15,9999-01-01
+442312,Zengping,Cusworth,Production,1991-06-07,9999-01-01
+442490,Navid,Luke,Production,1994-10-17,9999-01-01
+442653,Mona,Hebden,Development,1995-10-20,9999-01-01
+442700,Siddarth,Masada,Research,1997-08-11,9999-01-01
+442704,Terresa,Milicia,Production,1995-07-26,1997-11-21
+442898,Aksel,Gire,Production,1999-06-27,9999-01-01
+443108,Christfried,Atrawala,Human Resources,1998-11-29,9999-01-01
+443339,Shir,Krone,Research,1996-10-02,1998-09-07
+443485,Marke,Klerer,Research,1990-04-14,9999-01-01
+443632,Bernd,Conia,Sales,1999-11-25,2002-04-25
+443841,Shaw,Kading,Sales,1992-07-16,9999-01-01
+443873,Vatsa,Ramsay,Sales,2000-06-16,9999-01-01
+444070,Heping,Skrikant,Customer Service,1990-11-27,9999-01-01
+444099,Kousuke,Worfolk,Sales,1988-03-22,9999-01-01
+444208,Irena,Cesareni,Sales,1985-10-30,9999-01-01
+444228,Xinglin,Busillo,Production,1998-10-08,1999-06-11
+444465,Prasadram,Bultermann,Production,1998-10-25,9999-01-01
+444487,Udi,Rullman,Development,1994-04-09,9999-01-01
+444643,Berna,Schonegge,Research,1998-06-28,9999-01-01
+445067,Eldridge,Kawashima,Quality Management,1990-02-27,9999-01-01
+445152,Heping,Peac,Research,1985-03-20,9999-01-01
+445201,Randi,Alblas,Human Resources,1992-05-02,2000-01-27
+445226,Oscar,Baumann,Production,1987-01-22,9999-01-01
+445456,Apostol,Gruenwald,Production,1998-08-04,2000-03-18
+445514,Tuval,Albarhamtoshy,Development,1990-09-24,1999-10-28
+445570,Van,Nations,Development,1986-08-11,9999-01-01
+445723,Gaurav,Roison,Production,1991-07-12,9999-01-01
+445941,Masako,Dechter,Production,1985-09-25,9999-01-01
+445950,Ebru,Valtorta,Quality Management,1992-12-09,9999-01-01
+446121,Fay,Cochrane,Sales,1999-12-13,9999-01-01
+446306,Hercules,Kabayashi,Production,1991-06-10,9999-01-01
+446424,DAIDA,Nooteboom,Development,1985-11-24,9999-01-01
+446785,Yuping,Papastamatiou,Quality Management,1988-08-30,1992-01-16
+446897,Takahiro,Dalton,Production,1992-09-30,9999-01-01
+446959,Aram,Passino,Development,1995-01-28,9999-01-01
+447018,Dannz,Miara,Production,1992-12-04,9999-01-01
+447135,Gennady,Rouquie,Human Resources,1989-08-24,9999-01-01
+447191,Dmitri,Rousseau,Development,1995-06-19,1997-05-26
+447232,Aleksander,Schaaf,Customer Service,2000-01-10,9999-01-01
+447290,Maria,Miculan,Production,1993-04-12,1998-05-08
+447376,Kirk,Zongker,Research,1999-12-10,9999-01-01
+447544,Stabislas,Kakkad,Sales,1989-02-19,9999-01-01
+447599,Heeju,Kemmerer,Development,1991-12-26,1996-02-15
+447613,Paris,Restivo,Development,1986-11-21,9999-01-01
+447877,Make,Heuser,Quality Management,1988-07-02,9999-01-01
+447931,Martijn,Jeong,Sales,1990-12-14,9999-01-01
+447966,Kamakshi,Hebert,Production,1997-01-17,9999-01-01
+447982,Shiv,Baezner,Production,1990-12-17,9999-01-01
+447999,Shiv,Vilarrasa,Development,1990-08-01,9999-01-01
+448165,Anyuan,Schwaller,Sales,1993-08-31,2001-05-06
+448769,Mong,Dichev,Production,1997-10-11,9999-01-01
+448900,Mart,Talmor,Sales,1999-05-11,9999-01-01
+448918,Chiradeep,Arlazarov,Production,1989-10-06,9999-01-01
+448994,Haldun,Syang,Finance,1997-02-11,9999-01-01
+449189,Jahangir,Bernatsky,Sales,1995-09-30,9999-01-01
+449815,Fumitaka,Quittner,Research,1988-04-20,9999-01-01
+449966,Mabry,Knightly,Marketing,1994-01-04,2001-03-06
+449984,Hinrich,Perin,Development,1985-11-20,9999-01-01
+450184,Selwyn,Henseler,Development,1993-03-09,9999-01-01
+450255,Udo,Waymire,Development,1986-06-14,9999-01-01
+450309,Gill,Orlowska,Quality Management,1986-12-25,9999-01-01
+450371,Eldridge,Pargaonkar,Production,1992-08-03,1999-09-04
+450421,Selwyn,Munoz,Production,1989-07-05,1992-10-07
+450475,Saeed,Bahl,Finance,1991-01-29,9999-01-01
+450510,Boalin,Tramer,Finance,1992-04-13,1993-02-24
+450817,DAIDA,Frolund,Quality Management,1987-07-17,9999-01-01
+450888,Sedat,Rande,Sales,1995-03-25,9999-01-01
+450934,Chanjung,Raoux,Production,1992-05-25,9999-01-01
+450936,Yuriy,Ponthieu,Finance,1991-12-11,9999-01-01
+451253,Jaihie,Ozeri,Sales,1991-06-21,9999-01-01
+451272,Jacopo,Krohm,Development,1991-04-24,9999-01-01
+451275,Bedrich,Isard,Research,1986-06-07,9999-01-01
+451333,Radhika,Bonifati,Human Resources,1995-03-11,9999-01-01
+452137,Subir,Miake,Customer Service,1999-01-09,9999-01-01
+452196,Bartek,Snyers,Customer Service,1987-01-14,2001-05-02
+452206,Arra,Esposito,Sales,1994-11-03,9999-01-01
+452325,Taiji,Berstel,Development,1996-12-02,9999-01-01
+452347,Shigeichiro,Brattka,Sales,1996-07-13,9999-01-01
+452365,Fei,Gadepally,Development,1988-11-13,9999-01-01
+452956,Gou,Thombley,Customer Service,1990-11-07,9999-01-01
+452957,Alair,Nanard,Sales,1996-02-10,9999-01-01
+452970,Mari,Fargier,Production,1992-08-18,1995-12-11
+452982,Lobel,Aloia,Marketing,1994-12-29,9999-01-01
+453070,Aran,Rosenbaum,Human Resources,1991-04-25,9999-01-01
+453154,Gao,Lally,Customer Service,1996-03-01,9999-01-01
+453644,Berni,Takkinen,Marketing,1992-06-08,9999-01-01
+453688,Chinya,Leslie,Quality Management,1995-10-28,9999-01-01
+453723,Arne,Kohling,Production,1985-12-13,9999-01-01
+453760,Ewing,Rajala,Customer Service,1996-06-21,9999-01-01
+453790,Fai,Keirsey,Development,1994-10-12,9999-01-01
+453913,Stein,Perng,Marketing,1993-04-29,9999-01-01
+453996,Sugwoo,Weiland,Quality Management,1997-04-23,1999-01-18
+454338,Mohammed,Georg,Quality Management,1998-08-03,9999-01-01
+454378,Gina,Ossenbruggen,Production,1998-01-03,9999-01-01
+454736,Nechama,Ermel,Development,1995-06-05,9999-01-01
+454791,Xiaoqiu,Pietracaprina,Production,1994-07-09,9999-01-01
+454825,Kamakshi,Schusler,Production,1995-05-25,9999-01-01
+454994,Mohan,Picht,Production,1991-02-24,9999-01-01
+455113,Manohar,Rothenberg,Human Resources,1999-04-22,2002-06-16
+455175,Soenke,Zaumen,Marketing,1992-02-22,9999-01-01
+455243,Khoa,Bahk,Development,1991-06-10,1998-02-07
+455284,Luisa,Baig,Quality Management,1996-07-12,9999-01-01
+455296,Mang,Sundgren,Development,1995-11-27,1999-07-13
+455364,Ranga,Plesums,Sales,1990-01-28,1997-05-13
+455415,Weiye,Krohm,Sales,1990-10-29,2000-02-10
+455726,Qiwen,Kriebel,Sales,1987-12-13,9999-01-01
+455814,Giao,DuCasse,Production,1991-07-19,9999-01-01
+455914,Peer,Angelopoulos,Development,1989-07-23,9999-01-01
+456767,Tetsurou,Schreiter,Sales,1987-07-17,9999-01-01
+456824,Aloke,Neiman,Development,1985-07-10,1996-07-23
+456982,Shounak,Dratva,Development,1989-01-05,9999-01-01
+457070,Gay,Plavsic,Human Resources,1987-08-06,9999-01-01
+457146,Jinpo,Heyers,Research,1999-01-07,9999-01-01
+457305,Sorina,Lakshmanan,Sales,1994-09-03,9999-01-01
+457337,Xumin,Beidas,Quality Management,1995-04-27,9999-01-01
+457411,Xudong,Peck,Development,1988-04-18,9999-01-01
+457489,Berna,Ranst,Production,1985-05-14,9999-01-01
+457611,Indrajit,Krogh,Development,1998-09-18,9999-01-01
+457653,Yakichi,Naumovich,Quality Management,1988-06-12,1988-07-03
+457776,Florian,Siepmann,Production,1987-12-21,9999-01-01
+457813,Foong,Gargeya,Production,1992-01-24,9999-01-01
+457832,Jackson,Zielinski,Development,1997-09-12,9999-01-01
+457938,Arch,Picco,Customer Service,1997-10-22,9999-01-01
+458111,Florian,Tramer,Production,1999-11-07,9999-01-01
+458134,Thanasis,Standera,Human Resources,1985-03-20,9999-01-01
+458191,George,Atchley,Research,1997-07-02,9999-01-01
+458383,Mabhin,Foote,Development,1999-04-23,9999-01-01
+458726,Shahaf,Kitai,Customer Service,1986-12-26,9999-01-01
+458790,Ramya,Azadmanesh,Production,1988-11-19,9999-01-01
+458919,Kaijung,Papadias,Development,1999-05-01,2001-04-12
+459172,Val,Rissanen,Development,1993-11-20,9999-01-01
+459356,Pramod,Wendorf,Development,1998-12-25,9999-01-01
+459429,Mohit,Verhaegen,Sales,1992-05-27,9999-01-01
+459685,Hirochika,Goldhammer,Quality Management,1998-03-12,9999-01-01
+459846,Yuping,Sethi,Human Resources,1997-12-28,1999-05-21
+460131,Adly,Hambrick,Sales,1997-07-25,9999-01-01
+460691,Munehiko,Gihr,Human Resources,1989-12-06,9999-01-01
+460707,Yoshinari,Lanteri,Development,1996-12-25,9999-01-01
+460920,Remzi,Mitzlaff,Sales,1986-04-06,9999-01-01
+461120,Shietung,Gelosh,Research,2001-04-01,9999-01-01
+461270,Mrinalini,Mawatari,Sales,1996-01-03,9999-01-01
+461563,Sreenivas,Versino,Finance,1985-08-24,1988-12-25
+461723,Deborah,Basawa,Research,1992-03-02,1993-03-16
+461801,Sumali,Cooman,Customer Service,1993-04-18,9999-01-01
+462067,Sampalli,Francisci,Marketing,1994-11-25,2001-10-17
+462493,Paloma,Gerlach,Quality Management,1988-07-26,9999-01-01
+462736,Larisa,Murtafg,Research,1991-02-25,1993-06-04
+462795,Somnath,Cummings,Research,1994-07-10,9999-01-01
+463023,Itzchak,Penn,Marketing,1999-01-21,9999-01-01
+463099,Jinxi,Schmiedel,Finance,1990-09-21,9999-01-01
+463212,Ramya,Rossi,Quality Management,2001-09-02,9999-01-01
+463472,Jaber,Sethi,Customer Service,2000-06-11,9999-01-01
+463495,Alenka,Barriga,Human Resources,1988-05-06,9999-01-01
+464284,Huiqun,Henders,Sales,1993-05-19,9999-01-01
+464303,Abdelghani,Nyrup,Customer Service,1986-08-02,9999-01-01
+464526,Berna,Comellas,Research,1995-09-07,2000-02-18
+465062,Stafford,Gist,Production,1988-05-07,9999-01-01
+465076,Tokuyasu,Ghelli,Production,1985-05-05,9999-01-01
+465085,Vidar,Gunderson,Customer Service,1996-03-18,9999-01-01
+465409,Shahid,Varman,Marketing,1985-08-27,9999-01-01
+465501,Mrinalini,Gire,Human Resources,1992-11-09,9999-01-01
+465711,Lakshmi,Frijda,Development,1990-04-21,9999-01-01
+465853,Kwan,Kampfer,Human Resources,1998-10-16,9999-01-01
+465874,Herb,Picht,Production,1985-05-31,9999-01-01
+466064,Temple,Danlos,Sales,1994-06-13,9999-01-01
+466367,Hiroyasu,Strandh,Customer Service,1989-06-05,9999-01-01
+466509,Bezalel,Verhoeff,Development,1988-03-22,9999-01-01
+466603,Yechezkel,Nourani,Marketing,1991-08-01,9999-01-01
+466745,Boalin,Birsak,Human Resources,1995-10-16,9999-01-01
+466911,Stepehn,Markovitch,Customer Service,1991-08-13,1995-08-07
+467176,Przemyslawa,Borovoy,Human Resources,1993-06-18,9999-01-01
+467269,Nahum,Lambe,Development,1989-08-31,9999-01-01
+467392,Mariusz,Rikino,Production,1995-04-13,9999-01-01
+467441,Margareta,Bondorf,Production,1988-11-07,9999-01-01
+467591,Kiyotoshi,Hennebert,Marketing,2001-03-06,9999-01-01
+467886,Sivanarayana,Chandrasekhar,Marketing,1996-01-24,9999-01-01
+467918,Tsuneo,Skrikant,Customer Service,1997-10-21,9999-01-01
+468360,Huei,Saoudi,Development,1994-08-10,9999-01-01
+468417,Kamakshi,Huhdanpaa,Production,1993-08-26,9999-01-01
+468659,Ranga,Lemarechal,Development,1989-11-05,9999-01-01
+468763,Sachin,Zlotek,Production,1985-03-11,1990-08-09
+468773,Baziley,Brookner,Quality Management,1993-09-22,9999-01-01
+469104,Nadjib,Comellas,Quality Management,1999-01-22,9999-01-01
+469253,Baruch,Basawa,Development,1993-09-17,9999-01-01
+469269,Weiyi,Codenie,Production,1989-05-27,9999-01-01
+469366,Aiman,Wilfing,Quality Management,1990-12-30,9999-01-01
+469399,Hongzhu,Ruemmler,Production,2000-06-06,9999-01-01
+469527,Halsur,Ibel,Research,1998-03-05,9999-01-01
+469529,Neven,Rikino,Quality Management,1988-10-21,9999-01-01
+469735,Arif,Stranks,Development,1992-11-16,9999-01-01
+469805,Chaosheng,Shobatake,Finance,1991-07-03,2001-09-15
+469867,Hein,Jonsson,Research,1985-02-12,9999-01-01
+470456,Reuven,Oehlmann,Sales,1986-03-29,9999-01-01
+470472,Zhiguo,Staudhammer,Development,1985-12-03,9999-01-01
+471397,Nigel,Zirintsis,Research,1999-07-23,9999-01-01
+471532,Feiyu,Decleir,Development,1998-09-13,9999-01-01
+471552,Basem,Lortz,Finance,1997-10-25,9999-01-01
+471911,Arun,Zaccaria,Quality Management,1990-05-31,9999-01-01
+471939,Kazuhiko,Marshall,Production,2001-06-04,9999-01-01
+472052,Godehard,Chinal,Development,1995-12-09,9999-01-01
+472143,Yahiko,Sommen,Sales,1996-08-14,9999-01-01
+472238,Jungsoon,Gubsky,Production,1990-10-09,9999-01-01
+472440,Xuejia,Leppanen,Human Resources,1998-08-25,2000-10-25
+472790,Zhenbing,Ibel,Development,1985-10-29,9999-01-01
+472950,Weidon,Fordan,Production,1986-03-27,9999-01-01
+473268,Hugo,Sgarro,Sales,1992-04-24,9999-01-01
+473299,Khaled,Penn,Sales,1992-05-19,9999-01-01
+473490,Pantung,Reeker,Research,1992-05-11,9999-01-01
+473824,Shin,Puoti,Marketing,1996-12-20,1999-05-09
+473940,Avishai,Majewski,Production,1998-01-10,9999-01-01
+474162,Ung,Taubenfeld,Production,1999-10-14,2001-06-30
+474257,Sungwon,Kornyak,Research,1991-04-04,1994-10-23
+474331,Sugwoo,Eugenio,Finance,1994-03-02,9999-01-01
+474372,Monique,Cyre,Finance,1986-02-13,1994-10-11
+474763,Mayuko,Clouatre,Development,1997-09-04,9999-01-01
+474796,Zongyan,Shackel,Customer Service,1987-08-17,9999-01-01
+474918,Rasikan,Khalil,Development,1985-02-10,1985-03-11
+475087,Genevieve,Snedden,Production,1988-10-21,9999-01-01
+475258,Fumiyo,Feinberg,Production,2000-02-12,9999-01-01
+475538,Christophe,Leaver,Human Resources,1998-10-31,9999-01-01
+475938,Shigeaki,Lanteri,Development,1989-02-17,9999-01-01
+475965,Rimon,Pietracaprina,Development,1985-07-10,9999-01-01
+476055,Girolamo,Schlumberger,Research,1993-03-07,9999-01-01
+476122,Khun,Spieker,Production,1995-05-07,9999-01-01
+476327,Reinhold,Binkley,Production,1995-05-29,9999-01-01
+476361,Doohun,Preusig,Research,1993-04-28,9999-01-01
+476488,Yuping,Kuhnemann,Production,1986-12-13,1994-07-07
+477350,Terresa,Vigier,Sales,1998-07-08,9999-01-01
+477352,Nikolaos,Lorch,Development,1999-04-17,2002-03-07
+477578,Marit,Paludetto,Development,1990-09-30,9999-01-01
+477969,Bluma,Mundy,Development,1991-10-18,9999-01-01
+478007,Fumino,Narahara,Production,1991-09-21,9999-01-01
+478170,Doowon,Schoegge,Development,1995-04-13,9999-01-01
+478218,Djenana,Erol,Research,1999-12-03,9999-01-01
+478439,Yuichiro,Bale,Development,1997-11-04,9999-01-01
+478768,Arun,Katzenelson,Production,1991-10-28,9999-01-01
+478799,Shaw,Borovoy,Marketing,1991-05-11,9999-01-01
+478833,Pradeep,Valiente,Production,1992-09-19,9999-01-01
+478858,Hidekazu,Perna,Customer Service,1999-11-08,9999-01-01
+479024,Ewing,Kalorkoti,Production,1996-12-21,9999-01-01
+479407,Randi,Tomescu,Production,1986-11-25,9999-01-01
+479601,Kayoko,Bahi,Research,1997-02-19,9999-01-01
+479695,Masamitsu,Murrill,Marketing,1999-06-23,9999-01-01
+480035,Sukumar,Georg,Development,1990-08-26,9999-01-01
+480066,Suebskul,Menhardt,Quality Management,1994-07-26,9999-01-01
+480178,Uinam,Rahier,Research,1991-02-10,9999-01-01
+480268,Gaurav,Cheshire,Development,1989-03-30,9999-01-01
+480407,Deniz,Bennis,Development,1989-06-24,9999-01-01
+480571,Anoosh,Wielonsky,Development,1994-08-04,1996-08-01
+481050,Weiru,Burnard,Human Resources,1990-10-15,9999-01-01
+481148,Gina,Decaestecker,Development,1986-06-20,1989-05-25
+481213,Shigehiro,Haldar,Sales,1991-12-14,9999-01-01
+481397,Luisa,Chelton,Production,1998-08-13,9999-01-01
+481399,Amabile,Crelier,Development,1999-01-14,2000-04-07
+481467,Margareta,Polajnar,Sales,1989-02-24,1996-07-01
+481764,Teiji,Marrakchi,Production,1986-08-26,9999-01-01
+481790,Haldun,Erie,Research,1999-01-01,9999-01-01
+481807,Taegyun,Vieri,Development,1988-06-17,1989-03-03
+482278,Sven,Hinsberger,Quality Management,1992-07-24,1994-07-26
+482335,Kwangyoen,Peck,Development,1994-01-16,9999-01-01
+482354,Jayson,Zockler,Research,1999-11-06,9999-01-01
+482755,Jouni,Conia,Marketing,1994-10-31,9999-01-01
+482756,Shaowei,Back,Sales,1996-07-30,1998-12-21
+482885,Shaunak,Brizzi,Production,1988-09-02,9999-01-01
+482905,Aral,Hebden,Finance,1991-09-10,9999-01-01
+482944,Duke,Journel,Sales,1991-10-26,9999-01-01
+483213,Phillip,Munch,Development,1991-09-02,1998-04-01
+483401,Rosita,Pokrovskii,Sales,1996-08-03,9999-01-01
+483675,Hausi,Kamber,Production,1988-02-16,9999-01-01
+483825,Marek,Mitchem,Production,1992-11-20,9999-01-01
+483838,Sham,Kavanagh,Production,1997-12-18,9999-01-01
+483978,Dung,Tanemo,Sales,1990-01-28,9999-01-01
+484126,Manton,Lueh,Human Resources,1989-04-07,9999-01-01
+484142,Perry,Cooman,Human Resources,1987-04-23,9999-01-01
+484498,Herbert,Hammerschmidt,Production,1996-08-22,9999-01-01
+484756,Phule,Ruemmler,Development,1990-08-09,9999-01-01
+485253,Gladys,Parhami,Customer Service,1996-07-20,9999-01-01
+485489,Keiichiro,Armand,Development,1986-12-14,9999-01-01
+485577,Rafael,Menhoudj,Development,1997-04-27,9999-01-01
+485579,Munehiro,Iwayama,Development,1986-12-16,9999-01-01
+485799,Yoshimitsu,Litvinov,Research,1997-11-22,9999-01-01
+485817,Mahmut,Bolotov,Production,1997-02-21,9999-01-01
+486068,Yefim,Bernardeschi,Human Resources,1996-06-26,9999-01-01
+486808,Geoffrey,Siochi,Quality Management,1998-12-27,9999-01-01
+486918,Yagil,Remmers,Sales,1994-11-01,9999-01-01
+486955,Jaber,Feldmann,Production,1997-05-23,1998-08-05
+486956,Matt,Ruemmler,Production,1993-10-14,9999-01-01
+486958,Tonny,Kropf,Development,1986-07-30,9999-01-01
+487008,Zhigen,Raney,Sales,1993-05-26,9999-01-01
+487505,Uno,Jayawardene,Research,1987-11-02,9999-01-01
+487856,Jaewon,Mansanne,Development,1999-05-22,2000-04-29
+487988,Ekawit,Schaft,Human Resources,1990-05-20,9999-01-01
+488095,Francoise,Hegner,Customer Service,1997-12-23,9999-01-01
+488115,Leah,Luke,Development,1995-08-23,1995-09-27
+488142,Denis,Narlikar,Sales,1991-07-01,9999-01-01
+488414,Changho,Gaughan,Development,1987-06-21,1991-07-13
+488482,Kensyu,Tsunoo,Development,1999-12-05,9999-01-01
+488540,Breannda,Maquelin,Finance,1996-04-12,9999-01-01
+488619,Georgy,Bennis,Production,1998-04-11,9999-01-01
+488632,Irena,Baalen,Sales,1999-11-22,2001-02-10
+488693,Jiong,Zultner,Development,1993-03-10,9999-01-01
+488707,Mihalis,Remmers,Sales,1990-03-01,9999-01-01
+488752,Nimmagadda,Baja,Marketing,1994-02-09,9999-01-01
+488788,Wuxu,Garigliano,Customer Service,1990-09-21,9999-01-01
+488984,Kendra,Junet,Sales,1992-11-12,9999-01-01
+489465,Bogdan,Pepe,Production,1995-02-15,1998-11-06
+489755,Matk,Chorvat,Human Resources,1999-12-04,9999-01-01
+489756,Kersti,Miculan,Finance,1992-06-09,9999-01-01
+489928,Satoru,Janetzko,Development,1997-07-26,9999-01-01
+490240,Kazunori,Orlowska,Sales,1996-06-18,2000-10-26
+490551,Lalit,Lindqvist,Development,1998-11-07,9999-01-01
+490557,Luise,Vigier,Production,1994-07-01,9999-01-01
+490568,Zita,Reistad,Development,1998-07-23,9999-01-01
+490720,Younwoo,Samarati,Quality Management,2002-05-18,9999-01-01
+491079,Kwangsub,Keirsey,Development,1992-02-04,9999-01-01
+491162,Panayotis,Hempstead,Development,1994-08-29,9999-01-01
+491478,Gill,Varman,Sales,1988-06-18,9999-01-01
+491494,Saniya,Broomell,Sales,1992-08-04,1997-09-02
+491596,Charmane,Pargas,Production,1992-08-03,9999-01-01
+491632,Gadiel,Perly,Customer Service,1986-10-20,9999-01-01
+492000,Valeska,Cools,Human Resources,1993-12-16,9999-01-01
+492052,Udo,Ratnakar,Customer Service,1999-11-30,9999-01-01
+492217,Heekeun,Verhaegen,Development,1991-09-28,9999-01-01
+492639,Sanjoy,Porenta,Development,1997-07-10,9999-01-01
+492677,Goetz,McAffer,Production,1988-02-05,9999-01-01
+493031,Hironoby,Jakobus,Customer Service,1991-07-30,9999-01-01
+493048,Muzhong,Berztiss,Sales,1995-01-23,9999-01-01
+493096,Sachem,Msuda,Development,1995-04-07,9999-01-01
+493278,Shaleah,Pileggi,Production,1999-02-10,1999-10-30
+493744,Leni,Kropatsch,Production,1997-07-17,9999-01-01
+494019,Morrie,Iisaku,Marketing,1991-05-06,9999-01-01
+494088,Phule,Dahlbom,Production,1989-02-06,9999-01-01
+494493,Masasuke,Koprowski,Marketing,1996-11-20,9999-01-01
+494978,Bezalel,Himler,Human Resources,1999-07-09,2002-06-12
+494995,Yongmao,Pouyioutas,Sales,1989-08-24,9999-01-01
+495969,Geoffrey,Panienski,Production,1988-11-28,1998-06-07
+496100,Pranjal,Reinhard,Customer Service,1995-05-08,9999-01-01
+496970,Giordano,Maquelin,Production,1999-12-31,9999-01-01
+496978,Danco,Debuse,Marketing,1993-09-10,9999-01-01
+497007,Oldrich,Adachi,Customer Service,1998-08-09,9999-01-01
+497174,Sanjiv,Bressoud,Development,1993-04-27,9999-01-01
+497340,Fayez,Keohane,Marketing,1990-09-19,9999-01-01
+497391,Paris,Lieblein,Quality Management,1999-05-19,9999-01-01
+497409,Reinhard,Erde,Production,1992-12-04,1996-03-13
+497660,Gritta,Petereit,Development,1985-04-06,1994-09-05
+497835,Shuho,Laurillard,Production,1999-10-06,9999-01-01
+498185,Caolyn,Marciano,Development,1999-06-06,9999-01-01
+498337,Naraig,Docker,Sales,1997-05-17,9999-01-01
+498456,Geraldo,Gerteisen,Customer Service,1987-06-05,9999-01-01
+498635,Florian,Pezzoli,Sales,1988-07-22,9999-01-01
+498838,Sanjay,Ciolek,Research,1989-12-13,9999-01-01
+498845,Arumugam,Pelc,Development,1999-11-13,9999-01-01
+498955,Nechama,Kandlur,Production,1995-01-16,9999-01-01
+499160,Urs,Rande,Research,1990-01-25,1991-03-01
+499194,Padma,Delgrange,Customer Service,1999-08-27,9999-01-01
+499260,Danae,Honglei,Production,1998-09-14,9999-01-01
+499495,Baoqiu,Kakkar,Development,1999-08-30,9999-01-01
