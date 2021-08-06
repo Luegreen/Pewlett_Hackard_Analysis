@@ -5,6 +5,10 @@ SQL, Postgres, pgAdmin
 ## Overview of the analysis: Explain the purpose of this analysis.
 There are a number of humans in the company ready for retirement. The company needs to know who is elegible for retirement and, wether it would be productive to begin a mentorship program for 55 year-old employees who would like to move to part time but mentor new employees.  
 
+## Snapshot of SQL code
+<img width="1006" alt="Screen Shot 2021-08-06 at 10 23 05 AM" src="https://user-images.githubusercontent.com/14239715/128524943-af6985e3-01a1-41ee-a775-24a3eb15f682.png">
+
+
 
 ## Results: 
 <img width="666" alt="Screen Shot 2021-06-04 at 6 55 58 PM" src="https://user-images.githubusercontent.com/14239715/120870284-87c36e00-c566-11eb-8719-e9b047cb2314.png">
