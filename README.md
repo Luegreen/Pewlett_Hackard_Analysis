@@ -1,5 +1,6 @@
 
 # Pewlett_Hackard_Analysis
+SQL, Postgres, pgAdmin
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 There are a number of humans in the company ready for retirement. The company needs to know who is elegible for retirement and, wether it would be productive to begin a mentorship program for 55 year-old employees who would like to move to part time but mentor new employees.  
