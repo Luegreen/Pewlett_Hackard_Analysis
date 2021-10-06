@@ -3,7 +3,11 @@
 SQL, Postgres, pgAdmin
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-There are a number of humans in the company ready for retirement. The company needs to know who is elegible for retirement and, wether it would be productive to begin a mentorship program for 55 year-old employees who would like to move to part time but mentor new employees.  
+There are a number of humans in the company ready for retirement. The company needs to know who is elegible for retirement and, wether it would be productive to begin a mentorship program for 55 year-old employees who would like to move to part time but mentor new employees. 
+
+## In Preparation for this analysis, I brought this sample set of unrelated data through the SQL join process.
+<img width="1467" alt="Screen Shot 2021-10-06 at 10 34 40 AM" src="https://user-images.githubusercontent.com/14239715/136225237-2852380e-ec90-443c-a3b1-fb6c3aa0d70a.png">
+
 
 ## Snapshot of SQL code
 <img width="1006" alt="Screen Shot 2021-08-06 at 10 23 05 AM" src="https://user-images.githubusercontent.com/14239715/128524943-af6985e3-01a1-41ee-a775-24a3eb15f682.png">
